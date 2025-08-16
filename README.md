@@ -4,6 +4,20 @@
  
 <h2>👨‍💻 AI / ML Development Projects:</h2>
 
+### <span style="color: #4682B4;">AI Agents and Automation 🤖</span>
+- <b>Outreach AI Agent using CrewAI/Twilio and OpenAI APIs</b>
+  - [Outreach AI Agent](https://github.com/TeachingTheMachine/Outreach-AI-Agent)
+    - **Description**: An AI-powered outreach agent integrating CrewAI, Twilio for SMS, and OpenAI APIs to automate personalized communication.
+- <b>MLCops Project to Demonstrate Search Relevancy Algorithm with SBERT</b>
+  - [Search Relevancy Algorithm](https://github.com/TeachingTheMachine/Search-Relevancy-SBERT)
+    - **Description**: A Machine Learning Operations (MLOps) pipeline to enhance search relevancy using Sentence-BERT (SBERT) for semantic search.
+
+
+
+
+
+
+
 ### <span style="color: #FF69B4;">Natural Language Processing (NLP) 🧠</span>
 - <b>NLP Project to Demonstrate a Resume Parser in Python using SpaCy</b>
   - [Resume Parser](https://github.com/TeachingTheMachine/Resume-Parser-SpaCy)
@@ -36,13 +50,7 @@
   - [Siamese Neural Network](https://github.com/TeachingTheMachine/Siamese-Image-Similarity)
     - **Description**: A Siamese Neural Network to measure similarity between image pairs, useful for face recognition and duplicate detection.
 
-### <span style="color: #4682B4;">AI Agents and Automation 🤖</span>
-- <b>Outreach AI Agent using CrewAI/Twilio and OpenAI APIs</b>
-  - [Outreach AI Agent](https://github.com/TeachingTheMachine/Outreach-AI-Agent)
-    - **Description**: An AI-powered outreach agent integrating CrewAI, Twilio for SMS, and OpenAI APIs to automate personalized communication.
-- <b>MLCops Project to Demonstrate Search Relevancy Algorithm with SBERT</b>
-  - [Search Relevancy Algorithm](https://github.com/TeachingTheMachine/Search-Relevancy-SBERT)
-    - **Description**: A Machine Learning Operations (MLOps) pipeline to enhance search relevancy using Sentence-BERT (SBERT) for semantic search.
+
 
 ### <span style="color: #006400;">Database and Big Data 🐍🌊</span>
 - <b>Python and MongoDB Project for Beginners with Source Code - Part 2</b>
