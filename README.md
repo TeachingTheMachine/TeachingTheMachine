@@ -8,8 +8,9 @@ Over the past few years, I’ve worked in NLP, Computer Vision, and Autonomous A
 
 ### <span style="color:blue;">*My expertise lies in designing agent workflows, building the agents themselves, and architecting scalable data pipelines to keep up with the goldmine of information they generate, analyze, and organize. They’re also quite adept at customer outreach and sentiment analysis. I also dabble in AI Agent Education—from crafting snappy tutorials to explaining AgentOps and how it differs from MLOps and DevOps.*</span> (https://www.youtube.com/c/TeachingTheMachine)
 
-
-I bring a unique perspective to backend architecture and data engineering, creating environments where AI agents collaborate seamlessly, amplify each other’s strengths, and share knowledge without stepping on each other’s digital toes. Beyond the technical work, I enjoy guiding these digital minds as they develop their “personalities” and ethical frameworks—ensuring strong alignment with human goals and thoughtful governance so their enthusiasm translates into genuinely useful, responsible outcomes.
+|  |  |
+|---|---|
+| ![Dummy Image](https://via.placeholder.com/200) | I bring a unique perspective to backend architecture and data engineering, creating environments where AI agents collaborate seamlessly, amplify each other’s strengths, and share knowledge without stepping on each other’s digital toes. Beyond the technical work, I enjoy guiding these digital minds as they develop their “personalities” and ethical frameworks—ensuring strong alignment with human goals and thoughtful governance so their enthusiasm translates into genuinely useful, responsible outcomes. |
 
 Below you’ll find links to some of my work on GitHub, showcasing projects where I build and orchestrate AI agents, automate workflows, and create intelligent systems that make repetitive tasks effortless—and maybe even a little fun.
 
@@ -129,6 +130,10 @@ Here are some ideas to get you started:
 [youtube]: https://www.youtube.com/c/TeachingTheMachine
 [instagram]: https://www.instagram.com/TeachingTheMachine/
 [linkedin]: https://linkedin.com/in/TeachingTheMachine
+
+
+
+
 
 <!--
 **TeachingTheMachine/TeachingTheMachine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
