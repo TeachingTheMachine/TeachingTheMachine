@@ -1,12 +1,15 @@
 <h1>Hi, I'm Vanessa! Thank you for visiting my shiny✨, new  portfolio.</h1> <br/>
 
-### [AI Developer Specializing in Agentic Automation, Agent Data Procurement and AgentOps ](https://github.com/TeachingTheMachine) [Agent Education and Content Creator](https://www.youtube.com/c/TeachingTheMachine)
 
-Hello there! I’m Vanessa Crosby-Fitzgerald, a human (yes, still proudly carbon-based) and founder of Coast AI, a Carlsbad, CA technology company helping businesses automate their systems and processes. Over the past few years, I’ve worked in NLP, Computer Vision, and Autonomous Agents fields where I get to orchestrate teams of tireless, brilliant AI agents who eagerly take on the repetitive (and let’s be honest, boring) tasks the rest of us would rather avoid. The best part? They never complain—they actually love the work.
 
-I specialize in Agentic Automation and AgentOps—think of me as the conductor of a symphony of hyper-intelligent agents that happily optimize database queries at 3 AM. My expertise lies in designing agent workflows, building the agents themselves, and architecting scalable data pipelines to keep up with the goldmine of information they generate, analyze, and organize. And yes, they’re also quite good at customer outreach and sentiment analysis when called upon.
+Hello there! I’m Vanessa Crosby-Fitzgerald, a human (yes, still proudly carbon-based) and founder of Coast AI, a Carlsbad, CA technology company helping businesses automate their systems and processes. I’m an AI Developer specializing in Agentic Automation, Agent Data Procurement, and AgentOps—with a dash of creating snappy content to teach humans how to wrangle their own AI teams.
 
-I bring a unique perspective to backend architecture and data engineering, creating environments where AI agents collaborate seamlessly, amplify each other’s strengths, and share knowledge without stepping on each other’s digital toes. Beyond the technical work, I also enjoy guiding these eager digital minds as they develop their “personalities” and ethical frameworks—ensuring strong alignment with human goals and thoughtful governance so their enthusiasm translates into genuinely useful, responsible outcomes.
+Over the past few years, I’ve worked in NLP, Computer Vision, and Autonomous Agents, orchestrating teams of tireless, brilliant AI agents who eagerly take on the repetitive (and let’s be honest, boring) tasks the rest of us would rather avoid. The best part? They never complain—they actually love the work.
+
+### <span style="color:blue;">*My expertise lies in designing agent workflows, building the agents themselves, and architecting scalable data pipelines to keep up with the goldmine of information they generate, analyze, and organize. They’re also quite adept at customer outreach and sentiment analysis. I also dabble in AI Agent Education—from crafting snappy tutorials to explaining AgentOps and how it differs from MLOps and DevOps.*</span> [YouTube](https://www.youtube.com/c/TeachingTheMachine)
+
+
+I bring a unique perspective to backend architecture and data engineering, creating environments where AI agents collaborate seamlessly, amplify each other’s strengths, and share knowledge without stepping on each other’s digital toes. Beyond the technical work, I enjoy guiding these digital minds as they develop their “personalities” and ethical frameworks—ensuring strong alignment with human goals and thoughtful governance so their enthusiasm translates into genuinely useful, responsible outcomes.
 
 Below you’ll find links to some of my work on GitHub, showcasing projects where I build and orchestrate AI agents, automate workflows, and create intelligent systems that make repetitive tasks effortless—and maybe even a little fun.
 
