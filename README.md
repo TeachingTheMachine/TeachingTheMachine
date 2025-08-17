@@ -7,10 +7,9 @@ Hello there! I’m Vanessa Crosby-Fitzgerald, a human (yes, still proudly carbon
 Over the past few years, I’ve worked in NLP, Computer Vision, and Autonomous Agents, orchestrating teams of tireless, brilliant AI agents who eagerly take on the repetitive (and let’s be honest, boring) tasks the rest of us would rather avoid. The best part? They never complain—they actually love the work.
 
 ### <span style="color:blue;">*My expertise lies in designing agent workflows, building the agents themselves, and architecting scalable data pipelines to keep up with the goldmine of information they generate, analyze, and organize. They’re also quite adept at customer outreach and sentiment analysis. I also dabble in AI Agent Education—from crafting snappy tutorials to explaining AgentOps and how it differs from MLOps and DevOps.*</span> (https://www.youtube.com/c/TeachingTheMachine)
+ ![AI Agent](SM_agents.jpg?raw=true) 
 
-|  |  |
-|---|---|
-| ![Dummy Image](https://via.placeholder.com/200) | I bring a unique perspective to backend architecture and data engineering, creating environments where AI agents collaborate seamlessly, amplify each other’s strengths, and share knowledge without stepping on each other’s digital toes. Beyond the technical work, I enjoy guiding these digital minds as they develop their “personalities” and ethical frameworks—ensuring strong alignment with human goals and thoughtful governance so their enthusiasm translates into genuinely useful, responsible outcomes. |
+ I bring a unique perspective to backend architecture and data engineering, creating environments where AI agents collaborate seamlessly, amplify each other’s strengths, and share knowledge without stepping on each other’s digital toes. Beyond the technical work, I enjoy guiding these digital minds as they develop their “personalities” and ethical frameworks—ensuring strong alignment with human goals and thoughtful governance so their enthusiasm translates into genuinely useful, responsible outcomes.
 
 Below you’ll find links to some of my work on GitHub, showcasing projects where I build and orchestrate AI agents, automate workflows, and create intelligent systems that make repetitive tasks effortless—and maybe even a little fun.
 
