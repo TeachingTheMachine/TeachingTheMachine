@@ -11,6 +11,9 @@ Below you’ll find links to some of my work on GitHub, showcasing projects wher
 
 
 ### <span style="color: #4682B4;">AI Agent Crew Development and Automation 🤖</span>
+- **Multi-Domain Synthetic Data Generator**
+  - [Multi-Domain Synthetic Data Generator](https://github.com/TeachingTheMachine/SyntheticData-MultiDomain)
+    - **Description**: Agents working together to generate synthetic data in different domains and each coming in 3 flavors! Simple, Medium, and Complex data sets.
 - <b>Outreach AI Agent using CrewAI/Twilio and OpenAI APIs</b>
   - [Outreach AI Agent](https://github.com/TeachingTheMachine/Outreach-AI-Agent)
     - **Description**: An AI-powered outreach agent integrating CrewAI, Twilio for SMS, and OpenAI APIs to automate personalized communication.
