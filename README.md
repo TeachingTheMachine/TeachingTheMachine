@@ -147,3 +147,86 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I’m fluent in Spanish and love applying AI to solve real-world problems!
 -->
+
+## 🎯 Featured Portfolio Showcase
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>🤖 AgentOps Monitor Pro</h3>
+      <a href="https://agentops-monitor-demo.com">
+        <img width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="https://via.placeholder.com/350x200/4682B4/ffffff?text=AgentOps+Dashboard" alt="AgentOps Monitor Dashboard"/>
+      </a>
+      <br/><br/>
+      <a href="https://agentops-monitor-demo.com"><strong>🚀 Live Demo</strong></a> | 
+      <a href="https://youtube.com/watch?v=demo1"><strong>📹 Video Tour</strong></a>
+      <br/><br/>
+      <p>Real-time monitoring dashboard for CrewAI agents with performance analytics, error tracking, and custom alerts</p>
+      <p><em>🔥 Used by 200+ developers</em></p>
+    </td>
+    <td width="33%" align="center">
+      <h3>📊 AI Workflow Studio</h3>
+      <a href="https://ai-workflow-studio.com">
+        <img width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="https://via.placeholder.com/350x200/FF69B4/ffffff?text=Workflow+Studio" alt="AI Workflow Studio"/>
+      </a>
+      <br/><br/>
+      <a href="https://ai-workflow-studio.com"><strong>🚀 Live Demo</strong></a> | 
+      <a href="https://github.com/TeachingTheMachine/workflow-studio"><strong>📖 Case Study</strong></a>
+      <br/><br/>
+      <p>Visual workflow builder for CrewAI agents with drag-and-drop interface and local LLM integration</p>
+      <p><em>⭐ Featured in AI Weekly</em></p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🎯 Smart Outreach Engine</h3>
+      <a href="https://smart-outreach-demo.com">
+        <img width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="https://via.placeholder.com/350x200/00CED1/ffffff?text=Outreach+Engine" alt="Smart Outreach Platform"/>
+      </a>
+      <br/><br/>
+      <a href="https://smart-outreach-demo.com"><strong>🚀 Live Demo</strong></a> | 
+      <a href="https://youtube.com/watch?v=demo3"><strong>🎥 Demo Video</strong></a>
+      <br/><br/>
+      <p>AI-powered customer outreach platform with Twilio SMS, ElevenLabs voice, and personalized messaging at scale</p>
+      <p><em>📈 95% engagement rate</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <h3>🧠 Knowledge Graph Explorer</h3>
+      <a href="https://knowledge-graph-explorer.com">
+        <img width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="https://via.placeholder.com/350x200/FF4500/ffffff?text=Knowledge+Graph" alt="Knowledge Graph Explorer"/>
+      </a>
+      <br/><br/>
+      <a href="https://knowledge-graph-explorer.com"><strong>🚀 Live Demo</strong></a> | 
+      <a href="https://docs.knowledge-graph.com"><strong>📚 Documentation</strong></a>
+      <br/><br/>
+      <p>Interactive knowledge graph visualization for financial market data using LlamaIndex and RAG technology</p>
+      <p><em>💡 Processing 10M+ data points</em></p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🎙️ Voice Analytics Hub</h3>
+      <a href="https://voice-analytics-hub.com">
+        <img width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="https://via.placeholder.com/350x200/DAA520/ffffff?text=Voice+Analytics" alt="Voice Analytics Dashboard"/>
+      </a>
+      <br/><br/>
+      <a href="https://voice-analytics-hub.com"><strong>🚀 Live Demo</strong></a> | 
+      <a href="https://api-docs.voice-analytics.com"><strong>🔧 API Docs</strong></a>
+      <br/><br/>
+      <p>Real-time speech emotion recognition and sentiment analysis using neural networks and audio processing</p>
+      <p><em>🎯 99.2% accuracy rate</em></p>
+    </td>
+    <td width="33%" align="center">
+      <h3>☁️ IoT Data Pipeline</h3>
+      <a href="https://iot-pipeline-demo.com">
+        <img width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="https://via.placeholder.com/350x200/8A2BE2/ffffff?text=IoT+Pipeline" alt="IoT Data Pipeline"/>
+      </a>
+      <br/><br/>
+      <a href="https://iot-pipeline-demo.com"><strong>🚀 Live Demo</strong></a> | 
+      <a href="https://github.com/TeachingTheMachine/iot-pipeline"><strong>⚡ Architecture</strong></a>
+      <br/><br/>
+      <p>Scalable IoT data processing platform with AWS CDK, real-time streaming, and Databricks integration</p>
+      <p><em>🚀 Processing 1M+ events/day</em></p>
+    </td>
+  </tr>
+</table>
+
+---
