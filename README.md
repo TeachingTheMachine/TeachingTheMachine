@@ -21,7 +21,7 @@ Below you’ll find links to some of my work on GitHub, showcasing projects wher
       <br/><br/>
       Agents working together to generate synthetic data in different domains with Simple, Medium, and Complex data sets
       <br/><br/>
-      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <strong>🚀 Live Demo</strong> | <strong>📂 <a href="https://github.com/TeachingTheMachine/SyntheticData-MultiDomain">Repository</a></strong>
       <br/>
       <em>📊 3 complexity levels available</em>
     </td>
@@ -31,7 +31,7 @@ Below you’ll find links to some of my work on GitHub, showcasing projects wher
       <br/><br/>
       AI-powered outreach agent integrating CrewAI, Twilio for SMS, and OpenAI APIs to automate personalized communication
       <br/><br/>
-      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <strong>🚀 Live Demo</strong> | <strong>📂 <a href="https://github.com/TeachingTheMachine/Coming-Soon">Repository</a></strong>
       <br/>
       <em>🎯 85% response rate improvement</em>
     </td>
@@ -41,7 +41,7 @@ Below you’ll find links to some of my work on GitHub, showcasing projects wher
       <br/><br/>
       Fully local AI agent system using CrewAI and Ollama, enabling cost-free automation workflows without external API dependencies
       <br/><br/>
-      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <strong>🚀 Live Demo</strong> | <strong>📂 <a href="https://github.com/TeachingTheMachine/Coming-Soon">Repository</a></strong>
       <br/>
       <em>💰 100% cost-free operation</em>
     </td>
@@ -53,7 +53,7 @@ Below you’ll find links to some of my work on GitHub, showcasing projects wher
       <br/><br/>
       Local AI agent ecosystem using CrewAI integrated with Ollama, showcasing alternative AI models for task automation
       <br/><br/>
-      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <strong>🚀 Live Demo</strong> | <strong>📂 <a href="https://github.com/TeachingTheMachine/Coming-Soon">Repository</a></strong>
       <br/>
       <em>⚡ Zero external API costs</em>
     </td>
@@ -63,7 +63,7 @@ Below you’ll find links to some of my work on GitHub, showcasing projects wher
       <br/><br/>
       Collaborative AI agent team using CrewAI, leveraging Monster API for local task delegation and execution
       <br/><br/>
-      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <strong>🚀 Live Demo</strong> | <strong>📂 <a href="https://github.com/TeachingTheMachine/Coming-Soon">Repository</a></strong>
       <br/>
       <em>🔥 Scalable multi-agent systems</em>
     </td>
@@ -73,7 +73,7 @@ Below you’ll find links to some of my work on GitHub, showcasing projects wher
       <br/><br/>
       Autonomous task automation pipeline using CrewAI with local LLMs, highlighting efficient workflow orchestration
       <br/><br/>
-      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <strong>🚀 Live Demo</strong> | <strong>📂 <a href="https://github.com/TeachingTheMachine/Coming-Soon">Repository</a></strong>
       <br/>
       <em>🚀 50% faster task completion</em>
     </td>
@@ -92,7 +92,7 @@ Below you’ll find links to some of my work on GitHub, showcasing projects wher
       <br/><br/>
       Multi-agent system using CrewAI, LangChain, and LLMs like OpenAI to manage complex task assignments and scalable AI workflows
       <br/><br/>
-      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <strong>🚀 Live Demo</strong> | <strong>📂 <a href="https://github.com/TeachingTheMachine/Coming-Soon">Repository</a></strong>
       <br/>
       <em>📈 Handles 1000+ concurrent tasks</em>
     </td>
@@ -102,7 +102,7 @@ Below you’ll find links to some of my work on GitHub, showcasing projects wher
       <br/><br/>
       Flexible AI agent management system using CrewAI, with API key configuration and integration with GPT-3, GPT-4, and Llama
       <br/><br/>
-      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <strong>🚀 Live Demo</strong> | <strong>📂 <a href="https://github.com/TeachingTheMachine/Coming-Soon">Repository</a></strong>
       <br/>
       <em>🔑 Multi-model API support</em>
     </td>
@@ -112,7 +112,7 @@ Below you’ll find links to some of my work on GitHub, showcasing projects wher
       <br/><br/>
       Network of AI agents using CrewAI and powerful LLMs to solve complex tasks through collaborative intelligence
       <br/><br/>
-      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <strong>🚀 Live Demo</strong> | <strong>📂 <a href="https://github.com/TeachingTheMachine/Coming-Soon">Repository</a></strong>
       <br/>
       <em>🧠 Distributed AI problem solving</em>
     </td>
@@ -131,7 +131,7 @@ Below you’ll find links to some of my work on GitHub, showcasing projects wher
       <br/><br/>
       Content creation system powered by CrewAI and ElevenLabs, showcasing multi-agent collaboration for high-quality podcast generation
       <br/><br/>
-      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <strong>🚀 Live Demo</strong> | <strong>📂 <a href="https://github.com/TeachingTheMachine/Coming-Soon">Repository</a></strong>
       <br/>
       <em>🎤 Professional voice synthesis</em>
     </td>
@@ -141,7 +141,7 @@ Below you’ll find links to some of my work on GitHub, showcasing projects wher
       <br/><br/>
       Content creation system powered by CrewAI, showcasing multi-agent collaboration for generating high-quality content outputs
       <br/><br/>
-      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <strong>🚀 Live Demo</strong> | <strong>📂 <a href="https://github.com/TeachingTheMachine/Coming-Soon">Repository</a></strong>
       <br/>
       <em>📝 10x faster content creation</em>
     </td>
@@ -153,7 +153,7 @@ Below you’ll find links to some of my work on GitHub, showcasing projects wher
       <br/><br/>
       Automated blogging system using CrewAI with local LLMs like LM Studio, Ollama, and JanAI for content generation at scale
       <br/><br/>
-      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <strong>🚀 Live Demo</strong> | <strong>📂 <a href="https://github.com/TeachingTheMachine/Coming-Soon">Repository</a></strong>
       <br/>
       <em>📊 Generates 50+ articles/day</em>
     </td>
@@ -163,7 +163,7 @@ Below you’ll find links to some of my work on GitHub, showcasing projects wher
       <br/><br/>
       AI agent for automating internal documentation processes using CrewAI, streamlining complex documentation workflows
       <br/><br/>
-      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <strong>🚀 Live Demo</strong> | <strong>📂 <a href="https://github.com/TeachingTheMachine/Coming-Soon">Repository</a></strong>
       <br/>
       <em>⚡ 80% faster documentation</em>
     </td>
@@ -182,7 +182,7 @@ Below you’ll find links to some of my work on GitHub, showcasing projects wher
       <br/><br/>
       Collaborative AI agent framework using CrewAI to demonstrate agentic AI capabilities for task coordination and execution
       <br/><br/>
-      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <strong>🚀 Live Demo</strong> | <strong>📂 <a href="https://github.com/TeachingTheMachine/Coming-Soon">Repository</a></strong>
       <br/>
       <em>🎯 Seamless agent coordination</em>
     </td>
@@ -192,7 +192,7 @@ Below you’ll find links to some of my work on GitHub, showcasing projects wher
       <br/><br/>
       Custom workflow orchestrator using CrewAI with local LLMs, focusing on modular components for tailored AI task management
       <br/><br/>
-      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <strong>🚀 Live Demo</strong> | <strong>📂 <a href="https://github.com/TeachingTheMachine/Coming-Soon">Repository</a></strong>
       <br/>
       <em>🔧 Fully customizable workflows</em>
     </td>
@@ -211,7 +211,7 @@ Below you’ll find links to some of my work on GitHub, showcasing projects wher
       <br/><br/>
       Monitoring solution for CrewAI-based AI agents using AgentOps, integrating with Autogen and Ollama for real-time performance tracking
       <br/><br/>
-      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <strong>🚀 Live Demo</strong> | <strong>📂 <a href="https://github.com/TeachingTheMachine/Coming-Soon">Repository</a></strong>
       <br/>
       <em>📊 Real-time performance metrics</em>
     </td>
@@ -221,7 +221,7 @@ Below you’ll find links to some of my work on GitHub, showcasing projects wher
       <br/><br/>
       Development environment for CrewAI applications, utilizing the CrewAI CLI and AgentOps for streamlined agent creation and monitoring
       <br/><br/>
-      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <strong>🚀 Live Demo</strong> | <strong>📂 <a href="https://github.com/TeachingTheMachine/Coming-Soon">Repository</a></strong>
       <br/>
       <em>⚡ Streamlined development workflow</em>
     </td>
@@ -233,7 +233,7 @@ Below you’ll find links to some of my work on GitHub, showcasing projects wher
       <br/><br/>
       Lightweight platform integrating CrewAI with AgentOps for efficient AI agent monitoring and management
       <br/><br/>
-      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <strong>🚀 Live Demo</strong> | <strong>📂 <a href="https://github.com/TeachingTheMachine/Coming-Soon">Repository</a></strong>
       <br/>
       <em>🚀 Lightweight and efficient</em>
     </td>
@@ -243,7 +243,7 @@ Below you’ll find links to some of my work on GitHub, showcasing projects wher
       <br/><br/>
       Multi-agent system with a monitoring dashboard using CrewAI and AgentOps, showcasing robust AI framework management
       <br/><br/>
-      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <strong>🚀 Live Demo</strong> | <strong>📂 <a href="https://github.com/TeachingTheMachine/Coming-Soon">Repository</a></strong>
       <br/>
       <em>📊 Comprehensive monitoring dashboard</em>
     </td>
