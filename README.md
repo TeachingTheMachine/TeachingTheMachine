@@ -16,8 +16,8 @@ Below you’ll find links to some of my work on GitHub, showcasing projects wher
 <table>
   <tr>
     <td width="33%" align="center">
-      <strong>🎲 Multi-Domain Synthetic Data Generator</strong><br/>
-      <img width="200" height="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="SM_agents.jpg" alt="Multi-Domain Synthetic Data Generator"/>
+      <strong>🎲 Multi-Domain Synthetic Data Engine</strong><br/>
+      <img width="200" height="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="SM_agents.jpg" alt="Multi-Domain Synthetic Data Engine"/>
       <br/><br/>
       Agents working together to generate synthetic data in different domains with Simple, Medium, and Complex data sets
       <br/><br/>
