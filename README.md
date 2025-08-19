@@ -1,4 +1,7 @@
+
+
 <h1>Thank you for visiting my shiny✨, new  portfolio.</h1> <br/>
+
 
 Hello there! I’m Vanessa Crosby-Fitzgerald, a human (yes, still proudly carbon-based) and founder of Coast AI, a Carlsbad, CA technology company helping businesses automate their systems and processes. I’m an AI Developer specializing in Agentic Automation, Agent Data Procurement, and AgentOps—with a dash of creating snappy content to teach humans how to wrangle their own AI teams.
 
@@ -8,85 +11,71 @@ Over the past few years, I’ve worked in NLP, Computer Vision, and Autonomous A
  I bring a unique perspective to backend architecture and data engineering, creating environments where AI agents collaborate seamlessly, amplify each other’s strengths, and share knowledge without stepping on each other’s digital toes. Beyond the technical work, I enjoy guiding these digital minds as they develop their “personalities” and ethical frameworks—ensuring strong alignment with human goals and thoughtful governance so their enthusiasm translates into genuinely useful, responsible outcomes.
 
 Below you’ll find links to some of my work on GitHub, showcasing projects where I build and orchestrate AI agents, automate workflows, and create intelligent systems that make repetitive tasks effortless—and maybe even a little fun.
-
-
 ## 🤖 AI Agent Crew Development and Automation
 
 <table>
   <tr>
     <td width="33%" align="center">
-      <h3>🎲 Multi-Domain Synthetic Data Generator</h3>
-      <a href="https://synthetic-data-demo.com">
-        <img width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="https://via.placeholder.com/350x200/4682B4/ffffff?text=Synthetic+Data+Gen" alt="Multi-Domain Synthetic Data Generator"/>
-      </a>
+      <strong>🎲 Multi-Domain Synthetic Data Generator</strong><br/>
+      <img width="200" height="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="SM_agents.jpg" alt="Multi-Domain Synthetic Data Generator"/>
       <br/><br/>
-      <a href="https://synthetic-data-demo.com"><strong>🚀 Live Demo</strong></a> | 
-      <a href="https://github.com/TeachingTheMachine/SyntheticData-MultiDomain"><strong>📂 Repository</strong></a>
+      Agents working together to generate synthetic data in different domains with Simple, Medium, and Complex data sets
       <br/><br/>
-      <p>Agents working together to generate synthetic data in different domains with Simple, Medium, and Complex data sets</p>
-      <p><em>📊 3 complexity levels available</em></p>
+      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <br/>
+      <em>📊 3 complexity levels available</em>
     </td>
     <td width="33%" align="center">
-      <h3>📱 Smart Outreach AI Agent</h3>
-      <a href="https://outreach-agent-demo.com">
-        <img width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="https://via.placeholder.com/350x200/FF69B4/ffffff?text=Outreach+Agent" alt="Outreach AI Agent"/>
-      </a>
+      <strong>📱 Smart Outreach AI Agent</strong><br/>
+      <img width="200" height="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="SM_agents.jpg" alt="Outreach AI Agent"/>
       <br/><br/>
-      <a href="https://outreach-agent-demo.com"><strong>🚀 Live Demo</strong></a> | 
-      <a href="https://youtube.com/watch?v=outreach-demo"><strong>📹 Video Tour</strong></a>
+      AI-powered outreach agent integrating CrewAI, Twilio for SMS, and OpenAI APIs to automate personalized communication
       <br/><br/>
-      <p>AI-powered outreach agent integrating CrewAI, Twilio for SMS, and OpenAI APIs to automate personalized communication</p>
-      <p><em>🎯 85% response rate improvement</em></p>
+      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <br/>
+      <em>🎯 85% response rate improvement</em>
     </td>
     <td width="33%" align="center">
-      <h3>🏠 Local AI Agent System</h3>
-      <a href="https://local-crewai-demo.com">
-        <img width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="https://via.placeholder.com/350x200/00CED1/ffffff?text=Local+CrewAI" alt="Local AI Agent System"/>
-      </a>
+      <strong>🏠 Local AI Agent System</strong><br/>
+      <img width="200" height="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="SM_agents.jpg" alt="Local AI Agent System"/>
       <br/><br/>
-      <a href="https://local-crewai-demo.com"><strong>🚀 Live Demo</strong></a> | 
-      <a href="https://docs.local-crewai.com"><strong>📖 Documentation</strong></a>
+      Fully local AI agent system using CrewAI and Ollama, enabling cost-free automation workflows without external API dependencies
       <br/><br/>
-      <p>Fully local AI agent system using CrewAI and Ollama, enabling cost-free automation workflows without external API dependencies</p>
-      <p><em>💰 100% cost-free operation</em></p>
+      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <br/>
+      <em>💰 100% cost-free operation</em>
     </td>
   </tr>
   <tr>
     <td width="33%" align="center">
-      <h3>🤖 Autonomous AI Framework</h3>
-      <a href="https://autonomous-ai-demo.com">
-        <img width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="https://via.placeholder.com/350x200/FF4500/ffffff?text=Autonomous+AI" alt="Autonomous Local AI Agent Framework"/>
-      </a>
+      <strong>🤖 Autonomous AI Framework</strong><br/>
+      <img width="200" height="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="SM_agents.jpg" alt="Autonomous Local AI Agent Framework"/>
       <br/><br/>
-      <a href="https://autonomous-ai-demo.com"><strong>🚀 Live Demo</strong></a> | 
-      <a href="https://github.com/TeachingTheMachine/Autonomous-Local-AI-Framework"><strong>📂 Repository</strong></a>
+      Local AI agent ecosystem using CrewAI integrated with Ollama, showcasing alternative AI models for task automation
       <br/><br/>
-      <p>Local AI agent ecosystem using CrewAI integrated with Ollama, showcasing alternative AI models for task automation</p>
-      <p><em>⚡ Zero external API costs</em></p>
+      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <br/>
+      <em>⚡ Zero external API costs</em>
     </td>
     <td width="33%" align="center">
-      <h3>👥 AI Agent Team Builder</h3>
-      <a href="https://ai-team-builder-demo.com">
-        <img width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="https://via.placeholder.com/350x200/DAA520/ffffff?text=Team+Builder" alt="Next-Generation AI Agent Team Builder"/>
-      </a>
+      <strong>👥 AI Agent Team Builder</strong><br/>
+      <img width="200" height="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="SM_agents.jpg" alt="Next-Generation AI Agent Team Builder"/>
       <br/><br/>
-      <a href="https://ai-team-builder-demo.com"><strong>🚀 Live Demo</strong></a> | 
-      <a href="https://youtube.com/watch?v=team-builder"><strong>🎥 Demo Video</strong></a>
+      Collaborative AI agent team using CrewAI, leveraging Monster API for local task delegation and execution
       <br/><br/>
-      <p>Collaborative AI agent team using CrewAI, leveraging Monster API for local task delegation and execution</p>
-      <p><em>🔥 Scalable multi-agent systems</em></p>
+      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <br/>
+      <em>🔥 Scalable multi-agent systems</em>
     </td>
     <td width="33%" align="center">
-      <h3>⚙️ LLM Task Automation</h3>
-      <a href="https://llm-automation-demo.com">
-        <img width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="https://via.placeholder.com/350x200/8A2BE2/ffffff?text=LLM+Automation" alt="Local LLM-Powered Task Automation System"/>
-      </a>
+      <strong>⚙️ LLM Task Automation</strong><br/>
+      <img width="200" height="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="SM_agents.jpg" alt="Local LLM-Powered Task Automation System"/>
       <br/><br/>
-      <a href="https://llm-automation-demo.com"><strong>🚀 Live Demo</strong></a> | 
-      <a href="https://api-docs.llm-automation.com"><strong>🔧 API Docs</strong></a>
+      Autonomous task automation pipeline using CrewAI with local LLMs, highlighting efficient workflow orchestration
       <br/><br/>
-      <p>Autonomous task automation pipeline using CrewAI with local LLMs, highlighting efficient workflow orchestration</p>
-      <p><em>🚀 50% faster task completion</em></p>
+      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <br/>
+      <em>🚀 50% faster task completion</em>
     </td>
   </tr>
 </table>
@@ -98,40 +87,34 @@ Below you’ll find links to some of my work on GitHub, showcasing projects wher
 <table>
   <tr>
     <td width="33%" align="center">
-      <h3>🔄 Multi-Agent Workflow Engine</h3>
-      <a href="https://workflow-engine-demo.com">
-        <img width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="https://via.placeholder.com/350x200/FF6B6B/ffffff?text=Workflow+Engine" alt="Scalable Multi-Agent Workflow Engine"/>
-      </a>
+      <strong>🔄 Multi-Agent Workflow Engine</strong><br/>
+      <img width="200" height="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="SM_agents.jpg" alt="Scalable Multi-Agent Workflow Engine"/>
       <br/><br/>
-      <a href="https://workflow-engine-demo.com"><strong>🚀 Live Demo</strong></a> | 
-      <a href="https://github.com/TeachingTheMachine/Multi-Agent-Workflow-Engine"><strong>📂 Repository</strong></a>
+      Multi-agent system using CrewAI, LangChain, and LLMs like OpenAI to manage complex task assignments and scalable AI workflows
       <br/><br/>
-      <p>Multi-agent system using CrewAI, LangChain, and LLMs like OpenAI to manage complex task assignments and scalable AI workflows</p>
-      <p><em>📈 Handles 1000+ concurrent tasks</em></p>
+      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <br/>
+      <em>📈 Handles 1000+ concurrent tasks</em>
     </td>
     <td width="33%" align="center">
-      <h3>🎛️ AI Agent Management Platform</h3>
-      <a href="https://agent-management-demo.com">
-        <img width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="https://via.placeholder.com/350x200/4ECDC4/ffffff?text=Management+Platform" alt="Configurable AI Agent Management Platform"/>
-      </a>
+      <strong>🎛️ AI Agent Management Platform</strong><br/>
+      <img width="200" height="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="SM_agents.jpg" alt="Configurable AI Agent Management Platform"/>
       <br/><br/>
-      <a href="https://agent-management-demo.com"><strong>🚀 Live Demo</strong></a> | 
-      <a href="https://youtube.com/watch?v=management-demo"><strong>📹 Video Tour</strong></a>
+      Flexible AI agent management system using CrewAI, with API key configuration and integration with GPT-3, GPT-4, and Llama
       <br/><br/>
-      <p>Flexible AI agent management system using CrewAI, with API key configuration and integration with GPT-3, GPT-4, and Llama</p>
-      <p><em>🔑 Multi-model API support</em></p>
+      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <br/>
+      <em>🔑 Multi-model API support</em>
     </td>
     <td width="33%" align="center">
-      <h3>🕸️ AI Collaboration Network</h3>
-      <a href="https://collaboration-network-demo.com">
-        <img width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="https://via.placeholder.com/350x200/45B7D1/ffffff?text=Collaboration+Network" alt="Intelligent AI Agent Collaboration Network"/>
-      </a>
+      <strong>🕸️ AI Collaboration Network</strong><br/>
+      <img width="200" height="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="SM_agents.jpg" alt="Intelligent AI Agent Collaboration Network"/>
       <br/><br/>
-      <a href="https://collaboration-network-demo.com"><strong>🚀 Live Demo</strong></a> | 
-      <a href="https://docs.collaboration-network.com"><strong>📖 Documentation</strong></a>
+      Network of AI agents using CrewAI and powerful LLMs to solve complex tasks through collaborative intelligence
       <br/><br/>
-      <p>Network of AI agents using CrewAI and powerful LLMs to solve complex tasks through collaborative intelligence</p>
-      <p><em>🧠 Distributed AI problem solving</em></p>
+      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <br/>
+      <em>🧠 Distributed AI problem solving</em>
     </td>
   </tr>
 </table>
@@ -143,54 +126,46 @@ Below you’ll find links to some of my work on GitHub, showcasing projects wher
 <table>
   <tr>
     <td width="50%" align="center">
-      <h3>🎧 AI Podcast Creation Studio</h3>
-      <a href="https://podcast-studio-demo.com">
-        <img width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="https://via.placeholder.com/350x200/E17055/ffffff?text=Podcast+Studio" alt="Podcast Creation with 2 Agents"/>
-      </a>
+      <strong>🎧 AI Podcast Creation Studio</strong><br/>
+      <img width="200" height="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="SM_agents.jpg" alt="Podcast Creation with 2 Agents"/>
       <br/><br/>
-      <a href="https://podcast-studio-demo.com"><strong>🚀 Live Demo</strong></a> | 
-      <a href="https://youtube.com/watch?v=podcast-demo"><strong>🎥 Demo Video</strong></a>
+      Content creation system powered by CrewAI and ElevenLabs, showcasing multi-agent collaboration for high-quality podcast generation
       <br/><br/>
-      <p>Content creation system powered by CrewAI and ElevenLabs, showcasing multi-agent collaboration for high-quality podcast generation</p>
-      <p><em>🎤 Professional voice synthesis</em></p>
+      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <br/>
+      <em>🎤 Professional voice synthesis</em>
     </td>
     <td width="50%" align="center">
-      <h3>✍️ AI Content Creation Engine</h3>
-      <a href="https://content-engine-demo.com">
-        <img width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="https://via.placeholder.com/350x200/96CEB4/ffffff?text=Content+Engine" alt="Agentic AI Content Creation Engine"/>
-      </a>
+      <strong>✍️ AI Content Creation Engine</strong><br/>
+      <img width="200" height="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="SM_agents.jpg" alt="Agentic AI Content Creation Engine"/>
       <br/><br/>
-      <a href="https://content-engine-demo.com"><strong>🚀 Live Demo</strong></a> | 
-      <a href="https://github.com/TeachingTheMachine/Agentic-AI-Content-Engine"><strong>📂 Repository</strong></a>
+      Content creation system powered by CrewAI, showcasing multi-agent collaboration for generating high-quality content outputs
       <br/><br/>
-      <p>Content creation system powered by CrewAI, showcasing multi-agent collaboration for generating high-quality content outputs</p>
-      <p><em>📝 10x faster content creation</em></p>
+      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <br/>
+      <em>📝 10x faster content creation</em>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <h3>📰 AI Blogging Automation</h3>
-      <a href="https://blogging-automation-demo.com">
-        <img width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="https://via.placeholder.com/350x200/FECA57/ffffff?text=Blog+Automation" alt="AI-Powered Blogging Automation System"/>
-      </a>
+      <strong>📰 AI Blogging Automation</strong><br/>
+      <img width="200" height="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="SM_agents.jpg" alt="AI-Powered Blogging Automation System"/>
       <br/><br/>
-      <a href="https://blogging-automation-demo.com"><strong>🚀 Live Demo</strong></a> | 
-      <a href="https://api-docs.blogging-automation.com"><strong>🔧 API Docs</strong></a>
+      Automated blogging system using CrewAI with local LLMs like LM Studio, Ollama, and JanAI for content generation at scale
       <br/><br/>
-      <p>Automated blogging system using CrewAI with local LLMs like LM Studio, Ollama, and JanAI for content generation at scale</p>
-      <p><em>📊 Generates 50+ articles/day</em></p>
+      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <br/>
+      <em>📊 Generates 50+ articles/day</em>
     </td>
     <td width="50%" align="center">
-      <h3>📚 Documentation AI Agent</h3>
-      <a href="https://documentation-agent-demo.com">
-        <img width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="https://via.placeholder.com/350x200/A55EEA/ffffff?text=Doc+Agent" alt="Internal Documentation AI Agent"/>
-      </a>
+      <strong>📚 Documentation AI Agent</strong><br/>
+      <img width="200" height="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="SM_agents.jpg" alt="AI-Powered Blogging Automation System"/>
       <br/><br/>
-      <a href="https://documentation-agent-demo.com"><strong>🚀 Live Demo</strong></a> | 
-      <a href="https://github.com/TeachingTheMachine/Documentation-AI-Agent"><strong>📂 Repository</strong></a>
+      AI agent for automating internal documentation processes using CrewAI, streamlining complex documentation workflows
       <br/><br/>
-      <p>AI agent for automating internal documentation processes using CrewAI, streamlining complex documentation workflows</p>
-      <p><em>⚡ 80% faster documentation</em></p>
+      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <br/>
+      <em>⚡ 80% faster documentation</em>
     </td>
   </tr>
 </table>
@@ -202,28 +177,24 @@ Below you’ll find links to some of my work on GitHub, showcasing projects wher
 <table>
   <tr>
     <td width="50%" align="center">
-      <h3>🤝 Collaborative AI Framework</h3>
-      <a href="https://collaborative-ai-demo.com">
-        <img width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="https://via.placeholder.com/350x200/26D0CE/ffffff?text=Collaborative+AI" alt="Collaborative AI Agent Framework"/>
-      </a>
+      <strong>🤝 Collaborative AI Framework</strong><br/>
+      <img width="200" height="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="SM_agents.jpg" alt="AI-Powered Blogging Automation System"/>
       <br/><br/>
-      <a href="https://collaborative-ai-demo.com"><strong>🚀 Live Demo</strong></a> | 
-      <a href="https://youtube.com/watch?v=collaborative-demo"><strong>📹 Video Tour</strong></a>
+      Collaborative AI agent framework using CrewAI to demonstrate agentic AI capabilities for task coordination and execution
       <br/><br/>
-      <p>Collaborative AI agent framework using CrewAI to demonstrate agentic AI capabilities for task coordination and execution</p>
-      <p><em>🎯 Seamless agent coordination</em></p>
+      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <br/>
+      <em>🎯 Seamless agent coordination</em>
     </td>
     <td width="50%" align="center">
-      <h3>🎼 Custom Workflow Orchestrator</h3>
-      <a href="https://workflow-orchestrator-demo.com">
-        <img width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="https://via.placeholder.com/350x200/FF9FF3/ffffff?text=Workflow+Orchestrator" alt="Custom AI Workflow Orchestrator"/>
-      </a>
+      <strong>🎼 Custom Workflow Orchestrator</strong><br/>
+      <img width="200" height="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"  src="SM_agents.jpg" alt="AI-Powered Blogging Automation System"/>
       <br/><br/>
-      <a href="https://workflow-orchestrator-demo.com"><strong>🚀 Live Demo</strong></a> | 
-      <a href="https://docs.workflow-orchestrator.com"><strong>📖 Documentation</strong></a>
+      Custom workflow orchestrator using CrewAI with local LLMs, focusing on modular components for tailored AI task management
       <br/><br/>
-      <p>Custom workflow orchestrator using CrewAI with local LLMs, focusing on modular components for tailored AI task management</p>
-      <p><em>🔧 Fully customizable workflows</em></p>
+      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <br/>
+      <em>🔧 Fully customizable workflows</em>
     </td>
   </tr>
 </table>
@@ -235,141 +206,124 @@ Below you’ll find links to some of my work on GitHub, showcasing projects wher
 <table>
   <tr>
     <td width="50%" align="center">
-      <h3>📈 AgentOps AI Monitoring</h3>
-      <a href="https://agentops-monitoring-demo.com">
-        <img width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="https://via.placeholder.com/350x200/48CAE4/ffffff?text=AgentOps+Monitor" alt="AgentOps-Enhanced AI System Monitoring"/>
-      </a>
+      <strong>📈 AgentOps AI Monitoring</strong><br/>
+      <img width="200" height="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="SM_agents.jpg" alt="AgentOps-Enhanced AI System Monitoring"/>
       <br/><br/>
-      <a href="https://agentops-monitoring-demo.com"><strong>🚀 Live Demo</strong></a> | 
-      <a href="https://github.com/TeachingTheMachine/AgentOps-AI-Monitoring"><strong>📂 Repository</strong></a>
+      Monitoring solution for CrewAI-based AI agents using AgentOps, integrating with Autogen and Ollama for real-time performance tracking
       <br/><br/>
-      <p>Monitoring solution for CrewAI-based AI agents using AgentOps, integrating with Autogen and Ollama for real-time performance tracking</p>
-      <p><em>📊 Real-time performance metrics</em></p>
+      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <br/>
+      <em>📊 Real-time performance metrics</em>
     </td>
     <td width="50%" align="center">
-      <h3>🛠️ CrewAI Development Environment</h3>
-      <a href="https://crewai-dev-env-demo.com">
-        <img width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="https://via.placeholder.com/350x200/FF6B9D/ffffff?text=CrewAI+Dev+Env" alt="AgentOps-Integrated CrewAI Development Environment"/>
-      </a>
+      <strong>🛠️ CrewAI Development Environment</strong><br/>
+      <img width="200" height="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="SM_agents.jpg" alt="AgentOps-Integrated CrewAI Development Environment"/>
       <br/><br/>
-      <a href="https://crewai-dev-env-demo.com"><strong>🚀 Live Demo</strong></a> | 
-      <a href="https://youtube.com/watch?v=dev-env-demo"><strong>🎥 Demo Video</strong></a>
+      Development environment for CrewAI applications, utilizing the CrewAI CLI and AgentOps for streamlined agent creation and monitoring
       <br/><br/>
-      <p>Development environment for CrewAI applications, utilizing the CrewAI CLI and AgentOps for streamlined agent creation and monitoring</p>
-      <p><em>⚡ Streamlined development workflow</em></p>
+      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <br/>
+      <em>⚡ Streamlined development workflow</em>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <h3>🏗️ AgentOps CrewAI Platform</h3>
-      <a href="https://agentops-platform-demo.com">
-        <img width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="https://via.placeholder.com/350x200/C44569/ffffff?text=AgentOps+Platform" alt="Streamlined AgentOps-CrewAI Integration Platform"/>
-      </a>
+      <strong>🏗️ AgentOps CrewAI Platform</strong><br/>
+      <img width="200" height="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="SM_agents.jpg" alt="Streamlined AgentOps-CrewAI Integration Platform"/>
       <br/><br/>
-      <a href="https://agentops-platform-demo.com"><strong>🚀 Live Demo</strong></a> | 
-      <a href="https://api-docs.agentops-platform.com"><strong>🔧 API Docs</strong></a>
+      Lightweight platform integrating CrewAI with AgentOps for efficient AI agent monitoring and management
       <br/><br/>
-      <p>Lightweight platform integrating CrewAI with AgentOps for efficient AI agent monitoring and management</p>
-      <p><em>🚀 Lightweight and efficient</em></p>
+      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <br/>
+      <em>🚀 Lightweight and efficient</em>
     </td>
     <td width="50%" align="center">
-      <h3>📋 Multi-Agent Dashboard</h3>
-      <a href="https://multi-agent-dashboard-demo.com">
-        <img width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="https://via.placeholder.com/350x200/54A0FF/ffffff?text=Multi+Agent+Dashboard" alt="Multi-Agent System with Monitoring Dashboard"/>
-      </a>
+      <strong>📋 Multi-Agent Dashboard</strong><br/>
+      <img width="200" height="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="SM_agents.jpg" alt="Multi-Agent System with Monitoring Dashboard"/>
       <br/><br/>
-      <a href="https://multi-agent-dashboard-demo.com"><strong>🚀 Live Demo</strong></a> | 
-      <a href="https://github.com/TeachingTheMachine/Multi-Agent-Dashboard"><strong>📂 Repository</strong></a>
+      Multi-agent system with a monitoring dashboard using CrewAI and AgentOps, showcasing robust AI framework management
       <br/><br/>
-      <p>Multi-agent system with a monitoring dashboard using CrewAI and AgentOps, showcasing robust AI framework management</p>
-      <p><em>📊 Comprehensive monitoring dashboard</em></p>
+      <strong>🚀 Live Demo</strong> | <strong>📂 Repository</strong>
+      <br/>
+      <em>📊 Comprehensive monitoring dashboard</em>
     </td>
   </tr>
 </table>
 
 ---
+
 ## 🌍 Good 'ol Fashioned Websites
+
 <table>
   <tr>
     <td width="33%" align="center">
-      <h3>🛒 EcoShop - Sustainable Marketplace</h3>
-      <a href="https://ecoshop-demo.com">
-        <img width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="https://via.placeholder.com/350x200/2ECC71/ffffff?text=EcoShop" alt="EcoShop Sustainable Marketplace"/>
-      </a>
+      <strong>🛒 EcoShop - Sustainable Marketplace</strong><br/>
+      <img width="200" height="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="SM_agents.jpg" alt="EcoShop Sustainable Marketplace"/>
       <br/><br/>
-      <a href="https://ecoshop-demo.com"><strong>🌐 Visit Site</strong></a> | 
-      <a href="https://github.com/TeachingTheMachine/ecoshop"><strong>📂 Source Code</strong></a>
+      Complete e-commerce platform for sustainable products with shopping cart, payment integration, and eco-friendly product catalog
       <br/><br/>
-      <p>Complete e-commerce platform for sustainable products with shopping cart, payment integration, and eco-friendly product catalog</p>
-      <p><em>🌱 500+ eco-friendly products</em></p>
+      <strong>🌐 Visit Site</strong> | <strong>📂 Source Code</strong>
+      <br/>
+      <em>🌱 500+ eco-friendly products</em>
     </td>
     <td width="33%" align="center">
-      <h3>🎸 Neon Dreams - Rock Band</h3>
-      <a href="https://neondreams-band.com">
-        <img width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="https://via.placeholder.com/350x200/E74C3C/ffffff?text=Neon+Dreams" alt="Neon Dreams Rock Band Website"/>
-      </a>
+      <strong>🎸 Neon Dreams - Rock Band</strong><br/>
+      <img width="200" height="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="SM_agents.jpg" alt="Neon Dreams Rock Band Website"/>
       <br/><br/>
-      <a href="https://neondreams-band.com"><strong>🌐 Visit Site</strong></a> | 
-      <a href="https://youtube.com/watch?v=band-demo"><strong>🎥 Demo Video</strong></a>
+      Dynamic band website featuring music player, tour dates, photo gallery, and fan merchandise store with social media integration
       <br/><br/>
-      <p>Dynamic band website featuring music player, tour dates, photo gallery, and fan merchandise store with social media integration</p>
-      <p><em>🎵 10K+ monthly visitors</em></p>
+      <strong>🌐 Visit Site</strong> | <strong>📂 Source Code</strong>
+      <br/>
+      <em>🎵 10K+ monthly visitors</em>
     </td>
     <td width="33%" align="center">
-      <h3>🍕 Tony's Pizza Palace</h3>
-      <a href="https://tonys-pizza-palace.com">
-        <img width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="https://via.placeholder.com/350x200/F39C12/ffffff?text=Tony's+Pizza" alt="Tony's Pizza Palace Restaurant"/>
-      </a>
+      <strong>🍕 Tony's Pizza Palace</strong><br/>
+      <img width="200" height="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="SM_agents.jpg" alt="Tony's Pizza Palace Restaurant"/>
       <br/><br/>
-      <a href="https://tonys-pizza-palace.com"><strong>🌐 Visit Site</strong></a> | 
-      <a href="https://github.com/TeachingTheMachine/tonys-pizza"><strong>📂 Source Code</strong></a>
+      Restaurant website with online ordering system, menu gallery, table reservations, and customer reviews integration
       <br/><br/>
-      <p>Restaurant website with online ordering system, menu gallery, table reservations, and customer reviews integration</p>
-      <p><em>🍕 200+ orders per week</em></p>
+      <strong>🌐 Visit Site</strong> | <strong>📂 Source Code</strong>
+      <br/>
+      <em>🍕 200+ orders per week</em>
     </td>
   </tr>
   <tr>
     <td width="33%" align="center">
-      <h3>🏥 HealthFirst Medical Center</h3>
-      <a href="https://healthfirst-medical.com">
-        <img width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="https://via.placeholder.com/350x200/3498DB/ffffff?text=HealthFirst" alt="HealthFirst Medical Center"/>
-      </a>
+      <strong>🏥 HealthFirst Medical Center</strong><br/>
+      <img width="200" height="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="SM_agents.jpg" alt="HealthFirst Medical Center"/>
       <br/><br/>
-      <a href="https://healthfirst-medical.com"><strong>🌐 Visit Site</strong></a> | 
-      <a href="https://docs.healthfirst-medical.com"><strong>📖 Documentation</strong></a>
+      Professional medical center website with appointment booking, doctor profiles, patient portal, and health resources section
       <br/><br/>
-      <p>Professional medical center website with appointment booking, doctor profiles, patient portal, and health resources section</p>
-      <p><em>👨‍⚕️ 50+ healthcare professionals</em></p>
+      <strong>🌐 Visit Site</strong> | <strong>📂 Source Code</strong>
+      <br/>
+      <em>👨‍⚕️ 50+ healthcare professionals</em>
     </td>
     <td width="33%" align="center">
-      <h3>📚 Digital Learning Hub</h3>
-      <a href="https://digital-learning-hub.com">
-        <img width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="https://via.placeholder.com/350x200/9B59B6/ffffff?text=Learning+Hub" alt="Digital Learning Hub"/>
-      </a>
+      <strong>📚 Digital Learning Hub</strong><br/>
+      <img width="200" height="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="SM_agents.jpg" alt="Digital Learning Hub"/>
       <br/><br/>
-      <a href="https://digital-learning-hub.com"><strong>🌐 Visit Site</strong></a> | 
-      <a href="https://youtube.com/watch?v=learning-demo"><strong>🎥 Platform Tour</strong></a>
+      Educational platform featuring course catalog, student dashboard, progress tracking, and interactive learning modules
       <br/><br/>
-      <p>Educational platform featuring course catalog, student dashboard, progress tracking, and interactive learning modules</p>
-      <p><em>📖 1000+ students enrolled</em></p>
+      <strong>🌐 Visit Site</strong> | <strong>📂 Source Code</strong>
+      <br/>
+      <em>📖 1000+ students enrolled</em>
     </td>
     <td width="33%" align="center">
-      <h3>💼 StartupForge - Business Incubator</h3>
-      <a href="https://startupforge-incubator.com">
-        <img width="100%" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="https://via.placeholder.com/350x200/1ABC9C/ffffff?text=StartupForge" alt="StartupForge Business Incubator"/>
-      </a>
+      <strong>💼 StartupForge - Business Incubator</strong><br/>
+      <img width="200" height="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="SM_agents.jpg" alt="StartupForge Business Incubator"/>
       <br/><br/>
-      <a href="https://startupforge-incubator.com"><strong>🌐 Visit Site</strong></a> | 
-      <a href="https://github.com/TeachingTheMachine/startupforge"><strong>📂 Source Code</strong></a>
+      Corporate website for startup incubator with portfolio showcase, investor information, application portal, and success stories
       <br/><br/>
-      <p>Corporate website for startup incubator with portfolio showcase, investor information, application portal, and success stories</p>
-      <p><em>🚀 100+ startups launched</em></p>
+      <strong>🌐 Visit Site</strong> | <strong>📂 Source Code</strong>
+      <br/>
+      <em>🚀 100+ startups launched</em>
     </td>
   </tr>
 </table>
 
+---
 
-
+---
 <!--
 ## 📺 Popular YouTube Videos
 
@@ -440,6 +394,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I’m fluent in Spanish and love applying AI to solve real-world problems!
 -->
- 
+
 
 
