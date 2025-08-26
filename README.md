@@ -29,7 +29,7 @@ Below you'll find links to some of my work on GitHub, showcasing projects where 
 | ![Video Speech Replace](SM_agents.jpg) | |
 | **For clearer understanding of tech videos** | |
 | Audio replacement system powered by OpenAI to replace video audio with clearer voices for better understanding of technical content | More projects coming soon... |
-| **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/SpeechReplace)** | |
+| **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/SpeechSwap)** | | 
 | *🎤 Professional voice synthesis* | |
 
 
