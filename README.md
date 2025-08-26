@@ -21,6 +21,18 @@ Below you'll find links to some of my work on GitHub, showcasing projects where 
 | **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/SyntheticData-MultiDomain)** | **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/Outreach-AI-Agent)** | **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/Coming-Soon)** |
 | *📊 3 complexity levels available* | *🎯 85% response rate improvement* | *💰 100% cost-free operation* |
 
+
+## Non-Agentic Demos
+
+| Video Speech Replace | Coming Soon |
+|:---:|:---:|
+| ![Video Speech Replace](SM_agents.jpg) | |
+| **For clearer understanding of tech videos** | |
+| Audio replacement system powered by OpenAI to replace video audio with clearer voices for better understanding of technical content | More projects coming soon... |
+| **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/SpeechReplace)** | |
+| *🎤 Professional voice synthesis* | |
+
+
 ## 🎙️ Agentic Content Creation and Documentation
 - coming soon
 ## ➡️ Custom AI Workflows
