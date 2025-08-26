@@ -26,7 +26,7 @@ Below you'll find links to some of my work on GitHub, showcasing projects where 
 
 | Video Speech Replace | Coming Soon |
 |:---:|:---:|
-| ![Video Speech Replace](SM_agents.jpg) | |
+| ![Video Speech Replace](speechSwap_thumb.jpg) | |
 | **For clearer understanding of tech videos** | |
 | Audio replacement system powered by OpenAI to replace video audio with clearer voices for better understanding of technical content | More projects coming soon... |
 | **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/SpeechSwap)** | | 
