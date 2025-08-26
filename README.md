@@ -24,7 +24,7 @@ Below you'll find links to some of my work on GitHub, showcasing projects where 
 
 ## Non-Agentic Demos
 
-| Video Speech Replace | Coming Soon |
+| Video Speech Swap - Accent Blaster| Coming Soon |
 |:---:|:---:|
 | ![Video Speech Replace](speechSwap_thumb.jpg) | |
 | **For clearer understanding of tech videos** | |
