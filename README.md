@@ -18,7 +18,7 @@ Below you'll find links to some of my work on GitHub, showcasing projects where 
 |:---:|:---:|:---:|
 | ![Multi-Domain Synthetic Data Engine](multiDomain_SynthData_thumb.jpg) | ![Outreach AI Agent](SM_agents.jpg) | ![Local AI Agent System](SM_agents.jpg) |
 | Agents working together to generate synthetic data in different domains with Simple, Medium, and Complex data sets | AI-powered outreach agent integrating CrewAI, Twilio for SMS, and OpenAI APIs to automate personalized communication | Fully local AI agent system using CrewAI and Ollama, enabling cost-free automation workflows without external API dependencies |
-| **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/SyntheticData-MultiDomain)** | **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/Coming-Soon)** | **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/Coming-Soon)** |
+| **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/SyntheticData-MultiDomain)** | **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/Outreach-AI-Agent)** | **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/Coming-Soon)** |
 | *📊 3 complexity levels available* | *🎯 85% response rate improvement* | *💰 100% cost-free operation* |
 
 ## 🎙️ Agentic Content Creation and Documentation
