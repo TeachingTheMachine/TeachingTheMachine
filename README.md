@@ -26,7 +26,7 @@ Below you'll find links to some of my work on GitHub, showcasing projects where 
 
 | Video Speech Swap - Accent Blaster| Coming Soon |
 |:---:|:---:|
-| ![Video Speech Replace](speechSwap_thumb.jpg) | |
+| ![Video Speech Replace](speechSwap_thumb2.jpg) | |
 | **For clearer understanding of tech videos** | |
 | Audio replacement system powered by OpenAI to replace video audio with clearer voices for better understanding of technical content | More projects coming soon... |
 | **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/SpeechSwap)** | | 
