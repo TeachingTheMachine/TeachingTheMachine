@@ -11,6 +11,99 @@ Over the past few years, I’ve worked in NLP, Computer Vision, and Autonomous A
  I bring a unique perspective to backend architecture and data engineering, creating environments where AI agents collaborate seamlessly, amplify each other’s strengths, and share knowledge without stepping on each other’s digital toes. Beyond the technical work, I enjoy guiding these digital minds as they develop their “personalities” and ethical frameworks—ensuring strong alignment with human goals and thoughtful governance so their enthusiasm translates into genuinely useful, responsible outcomes.
 
 Below you’ll find links to some of my work on GitHub, showcasing projects where I build and orchestrate AI agents, automate workflows, and create intelligent systems that make repetitive tasks effortless—and maybe even a little fun.
+
+## 🤖 AI Agent Crew Development and Automation
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <strong>🎲 Multi-Domain Synthetic Data Engine</strong><br/>
+      <img width="200" height="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="multiDomain_SynthData_thumb.jpg" alt="Multi-Domain Synthetic Data Engine"/>
+      <br/><br/>
+      Agents working together to generate synthetic data in different domains with Simple, Medium, and Complex data sets
+      <br/><br/>
+      <strong>🚀 Live Demo</strong> | <strong>📂 <a href="https://github.com/TeachingTheMachine/SyntheticData-MultiDomain">Repository</a></strong>
+      <br/>
+      <em>📊 3 complexity levels available</em>
+    </td>
+    <td width="33%" align="center">
+      <strong>📱 Smart Outreach AI Agent</strong><br/>
+      <img width="200" height="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="SM_agents.jpg" alt="Outreach AI Agent"/>
+      <br/><br/>
+      AI-powered outreach agent integrating CrewAI, Twilio for SMS, and OpenAI APIs to automate personalized communication
+      <br/><br/>
+      <strong>🚀 Live Demo</strong> | <strong>📂 <a href="https://github.com/TeachingTheMachine/Coming-Soon">Repository</a></strong>
+      <br/>
+      <em>🎯 85% response rate improvement</em>
+    </td>
+    <td width="33%" align="center">
+      <strong>🏠 Local AI Agent System</strong><br/>
+      <img width="200" height="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="SM_agents.jpg" alt="Local AI Agent System"/>
+      <br/><br/>
+      Fully local AI agent system using CrewAI and Ollama, enabling cost-free automation workflows without external API dependencies
+      <br/><br/>
+      <strong>🚀 Live Demo</strong> | <strong>📂 <a href="https://github.com/TeachingTheMachine/Coming-Soon">Repository</a></strong>
+      <br/>
+      <em>💰 100% cost-free operation</em>
+    </td>
+  </tr>
+</table>
+
+## 🎙️ Agentic Content Creation and Documentation
+
+---
+
+## ➡️ Custom AI Workflows
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <strong>🤝 Collaborative AI Framework</strong><br/>
+      <img width="200" height="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="SM_agents.jpg" alt="AI-Powered Blogging Automation System"/>
+      <br/><br/>
+      Collaborative AI agent framework using CrewAI to demonstrate agentic AI capabilities for task coordination and execution
+      <br/><br/>
+      <strong>🚀 Live Demo</strong> | <strong>📂 <a href="https://github.com/TeachingTheMachine/Coming-Soon">Repository</a></strong>
+      <br/>
+      <em>🎯 Seamless agent coordination</em>
+    </td>
+    <td width="50%" align="center">
+      <strong>🎼 Custom Workflow Orchestrator</strong><br/>
+      <img width="200" height="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"  src="SM_agents.jpg" alt="AI-Powered Blogging Automation System"/>
+      <br/><br/>
+      Custom workflow orchestrator using CrewAI with local LLMs, focusing on modular components for tailored AI task management
+      <br/><br/>
+      <strong>🚀 Live Demo</strong> | <strong>📂 <a href="https://github.com/TeachingTheMachine/Coming-Soon">Repository</a></strong>
+      <br/>
+      <em>🔧 Fully customizable workflows</em>
+    </td>
+  </tr>
+</table>
+## 🌐 Scalable Multi-Agent Systems
+## ➡️ Custom AI Workflows
+## 📊 AgentOps-Integrated Systems
+## Non Agentic Demos
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <strong>🎧 Video Speech Replace - for clearer understand of tech videos</strong><br/>
+      <img width="200" height="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" src="SM_agents.jpg" alt="Video Speech Replace"/>
+      <br/><br/>
+      Content creation system powered by OpenAI to replace audio with clearer voices for better understanding of viewed content
+      <br/><br/>
+      <strong>🚀 Live Demo</strong> | <strong>📂 <a href="https://github.com/TeachingTheMachine/SpeechReplace">Repository</a></strong>
+      <br/>
+      <em>🎤 Professional voice synthesis</em>
+    </td>
+  </tr>
+
+</table>
+
+## 🌍 Good 'ol Fashioned Websites
+- coming soon
+## 📺 View my YouTube videos.
+- coming soon
+
+<!--
 ## 🤖 AI Agent Crew Development and Automation
 
 <table>
@@ -321,10 +414,11 @@ Below you’ll find links to some of my work on GitHub, showcasing projects wher
   </tr>
 </table>
 
----
+-->
 
 ---
 <!--
+
 ## 📺 Popular YouTube Videos
 
 - [FREE Local LLM - AI Agents With CrewAI And Ollama Easy Tutorial](https://www.youtube.com/watch?v=example)
