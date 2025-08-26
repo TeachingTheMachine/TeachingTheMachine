@@ -16,7 +16,7 @@ Below you'll find links to some of my work on GitHub, showcasing projects where 
 
 | Multi-Domain Synthetic Data Engine | Smart Outreach AI Agent | Local AI Agent System |
 |:---:|:---:|:---:|
-| ![Multi-Domain Synthetic Data Engine](multiDomain_SynthData_thumb.jpg) | ![Outreach AI Agent](SM_agents.jpg) | ![Local AI Agent System](SM_agents.jpg) |
+| ![Multi-Domain Synthetic Data Engine](multiDomain_SynthEngine_thumb.jpg) | ![Outreach AI Agent](SM_agents.jpg) | ![Local AI Agent System](SM_agents.jpg) |
 | Agents working together to generate synthetic data in different domains with Simple, Medium, and Complex data sets | AI-powered outreach agent integrating CrewAI, Twilio for SMS, and OpenAI APIs to automate personalized communication | Fully local AI agent system using CrewAI and Ollama, enabling cost-free automation workflows without external API dependencies |
 | **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/SyntheticData-MultiDomain)** | **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/Outreach-AI-Agent)** | **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/Coming-Soon)** |
 | *📊 3 complexity levels available* | *🎯 85% response rate improvement* | *💰 100% cost-free operation* |
@@ -24,13 +24,13 @@ Below you'll find links to some of my work on GitHub, showcasing projects where 
 
 ## Non-Agentic Demos
 
-| Video Speech Swap - Accent Blaster| Coming Soon |
-|:---:|:---:|
-| ![Video Speech Replace](speechSwap_thumb2.jpg) | |
-| **For clearer understanding of tech videos** | |
-| Audio replacement system powered by OpenAI to replace video audio with clearer voices for better understanding of technical content | More projects coming soon... |
-| **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/SpeechSwap)** | | 
-| *🎤 Professional voice synthesis* | |
+| Video Speech Swap - Accent Blaster|
+|:---:|
+| <p align="center">![Video Speech Replace](speechSwap_thumb2.jpg)</p> |
+| **For clearer understanding of tech videos** |
+| Audio replacement system powered by OpenAI to replace video audio with clearer voices for better understanding of technical content |
+| **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/SpeechSwap)** |
+| *🎤 Voice Synthesis* |
 
 
 ## 🎙️ Agentic Content Creation and Documentation
@@ -56,7 +56,7 @@ Below you'll find links to some of my work on GitHub, showcasing projects where 
 | ![Podcast Creation with 2 Agents](SM_agents.jpg) | ![Agentic AI Content Creation Engine](SM_agents.jpg) |
 | Content creation system powered by CrewAI and ElevenLabs, showcasing multi-agent collaboration for high-quality podcast generation | Content creation system powered by CrewAI, showcasing multi-agent collaboration for generating high-quality content outputs |
 | **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/Coming-Soon)** | **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/Coming-Soon)** |
-| *🎤 Professional voice synthesis* | *📝 10x faster content creation* |
+| *🎤 Voice Synthesis* | *📝 10x faster content creation* |
 
 | AI Blogging Automation | Documentation AI Agent |
 |:---:|:---:|
@@ -107,7 +107,7 @@ Below you'll find links to some of my work on GitHub, showcasing projects where 
 | **For clearer understanding of tech videos** | |
 | Audio replacement system powered by OpenAI to replace video audio with clearer voices for better understanding of technical content | More projects coming soon... |
 | **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/SpeechReplace)** | |
-| *🎤 Professional voice synthesis* | |
+| *🎤 Voice Synthesis* | |
 
 ## 🌍 Good 'ol Fashioned Websites
  
