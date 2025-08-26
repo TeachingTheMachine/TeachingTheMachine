@@ -22,7 +22,23 @@ Below you'll find links to some of my work on GitHub, showcasing projects where 
 | *📊 3 complexity levels available* | *🎯 85% response rate improvement* | *💰 100% cost-free operation* |
 
 ## 🎙️ Agentic Content Creation and Documentation
+- coming soon
+## ➡️ Custom AI Workflows
+- coming soon
+## 🌐 Scalable Multi-Agent Systems
+- coming soon
+## 📊 AgentOps-Integrated Systems
+- coming soon
+## 🌍 Mama's 'ol Fashioned Websites
+- coming soon
+## 📺 View my YouTube videos.
+- coming soon
 
+<!--
+
+
+## 🎙️ Agentic Content Creation and Documentation
+ 
 | AI Podcast Creation Studio | AI Content Creation Engine |
 |:---:|:---:|
 | ![Podcast Creation with 2 Agents](SM_agents.jpg) | ![Agentic AI Content Creation Engine](SM_agents.jpg) |
@@ -38,7 +54,7 @@ Below you'll find links to some of my work on GitHub, showcasing projects where 
 | *📊 Generates 50+ articles/day* | *⚡ 80% faster documentation* |
 
 ## ➡️ Custom AI Workflows
-
+ 
 | Collaborative AI Framework | Custom Workflow Orchestrator |
 |:---:|:---:|
 | ![Collaborative AI Framework](SM_agents.jpg) | ![Custom Workflow Orchestrator](SM_agents.jpg) |
@@ -47,7 +63,7 @@ Below you'll find links to some of my work on GitHub, showcasing projects where 
 | *🎯 Seamless agent coordination* | *🔧 Fully customizable workflows* |
 
 ## 🌐 Scalable Multi-Agent Systems
-
+ 
 | Multi-Agent Workflow Engine | AI Agent Management Platform | AI Collaboration Network |
 |:---:|:---:|:---:|
 | ![Scalable Multi-Agent Workflow Engine](SM_agents.jpg) | ![Configurable AI Agent Management Platform](SM_agents.jpg) | ![Intelligent AI Agent Collaboration Network](SM_agents.jpg) |
@@ -56,7 +72,7 @@ Below you'll find links to some of my work on GitHub, showcasing projects where 
 | *📈 Handles 1000+ concurrent tasks* | *🔑 Multi-model API support* | *🧠 Distributed AI problem solving* |
 
 ## 📊 AgentOps-Integrated Systems
-
+ 
 | AgentOps AI Monitoring | CrewAI Development Environment |
 |:---:|:---:|
 | ![AgentOps-Enhanced AI System Monitoring](SM_agents.jpg) | ![AgentOps-Integrated CrewAI Development Environment](SM_agents.jpg) |
@@ -82,7 +98,7 @@ Below you'll find links to some of my work on GitHub, showcasing projects where 
 | *🎤 Professional voice synthesis* | |
 
 ## 🌍 Good 'ol Fashioned Websites
-
+ 
 | EcoShop - Sustainable Marketplace | Neon Dreams - Rock Band | Tony's Pizza Palace |
 |:---:|:---:|:---:|
 | ![EcoShop Sustainable Marketplace](SM_agents.jpg) | ![Neon Dreams Rock Band Website](SM_agents.jpg) | ![Tony's Pizza Palace Restaurant](SM_agents.jpg) |
@@ -108,6 +124,7 @@ Below you'll find links to some of my work on GitHub, showcasing projects where 
 [![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)][twitter]
 [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)][linkedin]
 [![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)][instagram]
+-->
 
 [twitter]: https://twitter.com/TeachingTheMachine
 [youtube]: https://www.youtube.com/c/TeachingTheMachine
