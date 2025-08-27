@@ -1,6 +1,6 @@
 # Thank you for visiting my shiny new portfolio.
 
-Hello there! I'm Vanessa Crosby-Fitzgerald, a human (yes, still proudly carbon-based) and founder of Coast AI, a Carlsbad, CA technology company helping businesses automate their systems and processes. I'm an AI Developer specializing in Agentic Automation, Agent Data Procurement, and AgentOps—with a dash of creating snappy content to teach humans how to wrangle their own AI teams.
+Hello there! I'm Vanessa Crosby-Fitzgerald, a human (yes, still proudly carbon-based). I'm an AI Developer specializing in conversational AI, NLU/NLP, Agentic Automation and Agent Data Procurement.
 
 Over the past few years, I've worked in Data, NLP, and Autonomous Agents, orchestrating teams of tireless, brilliant AI agents who eagerly take on the repetitive (and let's be honest, boring) tasks the rest of us would rather avoid. The best part? They never complain—they actually love the work.
 
