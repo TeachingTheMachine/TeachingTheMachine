@@ -1,4 +1,5 @@
-# Thank you for visiting my shiny✨,new portfolio.
+# Thank you for visiting my shiny✨, new portfolio.
+#### BTW - its a constant work in progress, so check back regularly for updated content
 
 Hello there! I'm Vanessa Crosby-Fitzgerald, a human (yes, still proudly carbon-based). I'm an AI Developer specializing in conversational AI, NLU/NLP, Agentic Automation and Agent Data Procurement.
 
