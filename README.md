@@ -25,13 +25,13 @@ Below you'll find links to some of my work on GitHub, showcasing projects where 
 
 ## Non-Agentic Demos
 
-| Video Speech Swap - Accent Blaster| Multi-Domain Synthetic Data Engine |
-|:---:|:---:|
-| <p align="center">![Video Speech Replace](speechSwap_thumb2.jpg)</p> | ![Multi-Domain Synthetic Data Engine](multiDomain_SynthEngine_thumb.jpg) | ![Outreach AI Agent](SM_agents.jpg) | ![Local AI Agent System]
-| **For clearer understanding of tech videos** | **Create and export synthetic data in .csv or JSON format** 
-| Audio replacement system powered by OpenAI to replace video audio with clearer voices for better understanding of technical content |Generate synthetic data in different domains with Simple, Medium, and Complex data sets | 
-| **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/SpeechSwap)** | **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/SyntheticData-MultiDomain)** | *📊 3 complexity levels available* |
-| *🎤 Voice Synthesis* | *📊 Generate Datasets* |
+| Video Speech Swap - Accent Blaster | Multi-Domain Synthetic Data Engine | AudioMate: TTS API Tester |
+|:---:|:---:|:---:|
+| <p align="center">![Video Speech Replace](speechSwap_thumb2.jpg)</p> | <p align="center">![Multi-Domain Synthetic Data Engine](multiDomain_SynthEngine_thumb.jpg)</p> | <p align="center">![Outreach AI Agent](audiMateTtsTester_thumb.jpg)</p> |
+| **For clearer understanding of tech videos** | **Create and export synthetic data in .csv or JSON format** | **Test TTS API with custom text** |
+| Audio replacement system powered by OpenAI to replace video audio with clearer voices for better understanding of technical content | Generate synthetic data in different domains with 3 complexity levels available | Test various TTS APIs. Currently set up for OpenAI and ElevenLabs. Add your own. |
+| **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/SpeechSwap)** | **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/SyntheticData-MultiDomain)** | **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/AudioMate)** |
+| *🎤 Voice Synthesis* | *📊 Generate Datasets* | *🗣️ Test TTS APIs* |
 
 
 ## 🎙️ Agentic Content Creation and Documentation
