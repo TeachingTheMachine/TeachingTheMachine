@@ -15,23 +15,23 @@ Below you'll find links to some of my work on GitHub, showcasing projects where 
 
 ## 🤖 AI Agent Crew Development and Automation
 
-| Multi-Domain Synthetic Data Engine | Smart Outreach AI Agent | Local AI Agent System |
-|:---:|:---:|:---:|
-| ![Multi-Domain Synthetic Data Engine](multiDomain_SynthEngine_thumb.jpg) | ![Outreach AI Agent](SM_agents.jpg) | ![Local AI Agent System](SM_agents.jpg) |
-| Agents working together to generate synthetic data in different domains with Simple, Medium, and Complex data sets | AI-powered outreach agent integrating CrewAI, Twilio for SMS, and OpenAI APIs to automate personalized communication | Fully local AI agent system using CrewAI and Ollama, enabling cost-free automation workflows without external API dependencies |
-| **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/SyntheticData-MultiDomain)** | **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/Outreach-AI-Agent)** | **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/Coming-Soon)** |
-| *📊 3 complexity levels available* | *🎯 85% response rate improvement* | *💰 100% cost-free operation* |
+|  Smart Outreach AI Agent | Local AI Agent System |
+|:---:|:---:|
+ | ![Outreach AI Agent](SM_agents.jpg) | ![Local AI Agent System](SM_agents.jpg) |
+| AI-powered outreach agent integrating CrewAI, Twilio for SMS, and OpenAI APIs to automate personalized communication | Fully local AI agent system using CrewAI and Ollama, enabling cost-free automation workflows without external API dependencies |
+| **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/Outreach-AI-Agent)** | **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/Coming-Soon)** |
+| *🎯 85% response rate improvement* | *💰 100% cost-free operation* |
 
 
 ## Non-Agentic Demos
 
-| Video Speech Swap - Accent Blaster|
-|:---:|
-| <p align="center">![Video Speech Replace](speechSwap_thumb2.jpg)</p> |
-| **For clearer understanding of tech videos** |
-| Audio replacement system powered by OpenAI to replace video audio with clearer voices for better understanding of technical content |
-| **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/SpeechSwap)** |
-| *🎤 Voice Synthesis* |
+| Video Speech Swap - Accent Blaster| Multi-Domain Synthetic Data Engine |
+|:---:|:---:|
+| <p align="center">![Video Speech Replace](speechSwap_thumb2.jpg)</p> | ![Multi-Domain Synthetic Data Engine](multiDomain_SynthEngine_thumb.jpg) | ![Outreach AI Agent](SM_agents.jpg) | ![Local AI Agent System]
+| **For clearer understanding of tech videos** | **Create and export synthetic data in .csv or JSON format** 
+| Audio replacement system powered by OpenAI to replace video audio with clearer voices for better understanding of technical content |Generate synthetic data in different domains with Simple, Medium, and Complex data sets | 
+| **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/SpeechSwap)** | **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/SyntheticData-MultiDomain)** | *📊 3 complexity levels available* |
+| *🎤 Voice Synthesis* | *📊 Generate Datasets* |
 
 
 ## 🎙️ Agentic Content Creation and Documentation
