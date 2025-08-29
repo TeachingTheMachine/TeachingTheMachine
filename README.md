@@ -27,11 +27,14 @@ Below you'll find links to some of my work on GitHub, showcasing projects where 
 
 | Video Speech Swap - Accent Blaster | Multi-Domain Synthetic Data Engine | AudioMate: TTS API Tester |
 |:---:|:---:|:---:|
-| <p align="center">![Video Speech Replace](speechSwap_thumb2.jpg)</p> | <p align="center">![Multi-Domain Synthetic Data Engine](multiDomain_SynthEngine_thumb.jpg)</p> | <p align="center">![Outreach AI Agent](audiMateTtsTester_thumb.jpg)</p> |
+| <p align="center">![Video Speech Replace](speechSwap_thumb2.jpg)</p> | <p align="center">![Multi-Domain Synthetic Data Engine](multiDomain_SynthEngine_thumb.jpg)</p> | <p align="center">![AudioMate TTS API Tester](audiMateTtsTester_thumb.jpg)</p> | 
 | **For clearer understanding of tech videos** | **Create and export synthetic data in .csv or JSON format** | **Test TTS API with custom text** |
 | Audio replacement system powered by OpenAI to replace video audio with clearer voices for better understanding of technical content | Generate synthetic data in different domains with 3 complexity levels available | Test various TTS APIs. Currently set up for OpenAI and ElevenLabs. Add your own. |
 | **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/SpeechSwap)** | **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/SyntheticData-MultiDomain)** | **🚀[Live Demo](https://raw.githubusercontent.com/TeachingTheMachine/AudioMate/main/client/src/assets/videoDemo.mp4)** \| **📂 [Repository](https://github.com/TeachingTheMachine/AudioMate)** |
-| *🎤 Voice Synthesis* | *📊 Generate Datasets* | *🗣️ Test TTS APIs* |
+| *🎤 Voice Synthesis* | *📊 Generate Datasets* | *🗣️ Test TTS APIs* <video width="600" controls>
+  <source src="https://raw.githubusercontent.com/TeachingTheMachine/AudioMate/main/client/src/assets/videoDemo.mp4" type="video/mp4">
+  <a href="https://raw.githubusercontent.com/TeachingTheMachine/AudioMate/main/client/src/assets/videoDemo.mp4">Watch Demo Video</a>
+</video>|
 
 
 ## 🎙️ Agentic Content Creation and Documentation
