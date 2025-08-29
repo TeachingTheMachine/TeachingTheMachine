@@ -25,17 +25,126 @@ Below you'll find links to some of my work on GitHub, showcasing projects where 
 
 ## Non-Agentic Demos
 
+<style>
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.modal-content {
+    position: relative;
+    margin: 5% auto;
+    width: 80%;
+    max-width: 800px;
+    background-color: #fff;
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+.modal-video {
+    width: 100%;
+    height: 450px;
+}
+
+.close {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    cursor: pointer;
+    z-index: 1001;
+    background: rgba(0,0,0,0.5);
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.clickable-image {
+    cursor: pointer;
+    transition: transform 0.2s ease;
+}
+
+.clickable-image:hover {
+    transform: scale(1.05);
+}
+
+.demo-button {
+    background: #007bff;
+    color: white !important;
+    padding: 8px 16px;
+    border-radius: 6px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    border: none;
+    font-weight: 600;
+}
+
+.demo-button:hover {
+    background: #0056b3;
+    text-decoration: none;
+}
+</style>
+
 | Video Speech Swap - Accent Blaster | Multi-Domain Synthetic Data Engine | AudioMate: TTS API Tester |
 |:---:|:---:|:---:|
-| <p align="center">![Video Speech Replace](speechSwap_thumb2.jpg)</p> | <p align="center">![Multi-Domain Synthetic Data Engine](multiDomain_SynthEngine_thumb.jpg)</p> | <p align="center">![AudioMate TTS API Tester](audiMateTtsTester_thumb.jpg)</p> | 
+| <p align="center">![Video Speech Replace](speechSwap_thumb2.jpg)</p> | <p align="center">![Multi-Domain Synthetic Data Engine](multiDomain_SynthEngine_thumb.jpg)</p> | <p align="center"><img src="audiMateTtsTester_thumb.jpg" alt="AudioMate TTS API Tester" class="clickable-image" onclick="openVideoModal()" style="cursor: pointer;"></p> | 
 | **For clearer understanding of tech videos** | **Create and export synthetic data in .csv or JSON format** | **Test TTS API with custom text** |
 | Audio replacement system powered by OpenAI to replace video audio with clearer voices for better understanding of technical content | Generate synthetic data in different domains with 3 complexity levels available | Test various TTS APIs. Currently set up for OpenAI and ElevenLabs. Add your own. |
-| **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/SpeechSwap)** | **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/SyntheticData-MultiDomain)** | **🚀[Live Demo](https://raw.githubusercontent.com/TeachingTheMachine/AudioMate/main/client/src/assets/videoDemo.mp4)** \| **📂 [Repository](https://github.com/TeachingTheMachine/AudioMate)** |
-| *🎤 Voice Synthesis* | *📊 Generate Datasets* | *🗣️ Test TTS APIs* <video width="600" controls>
-  <source src="https://raw.githubusercontent.com/TeachingTheMachine/AudioMate/main/client/src/assets/videoDemo.mp4" type="video/mp4">
-  <a href="https://raw.githubusercontent.com/TeachingTheMachine/AudioMate/main/client/src/assets/videoDemo.mp4">Watch Demo Video</a>
-</video>|
+| **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/SpeechSwap)** | **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/SyntheticData-MultiDomain)** | **<button class="demo-button" onclick="openVideoModal()">🚀 Live Demo</button>** \| **📂 [Repository](https://github.com/TeachingTheMachine/AudioMate)** |
+| *🎤 Voice Synthesis* | *📊 Generate Datasets* | *🗣️ Test TTS APIs* |
 
+<!-- Video Modal -->
+<div id="videoModal" class="modal">
+    <div class="modal-content">
+        <span class="close" onclick="closeVideoModal()">&times;</span>
+        <video id="modalVideo" class="modal-video" controls>
+            <source src="https://raw.githubusercontent.com/TeachingTheMachine/AudioMate/main/client/src/assets/videoDemo.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+</div>
+
+<script>
+function openVideoModal() {
+    document.getElementById('videoModal').style.display = 'block';
+    document.getElementById('modalVideo').play();
+}
+
+function closeVideoModal() {
+    const modal = document.getElementById('videoModal');
+    const video = document.getElementById('modalVideo');
+    modal.style.display = 'none';
+    video.pause();
+    video.currentTime = 0;
+}
+
+// Close modal when clicking outside of it
+window.onclick = function(event) {
+    const modal = document.getElementById('videoModal');
+    if (event.target == modal) {
+        closeVideoModal();
+    }
+}
+
+// Close modal with Escape key
+document.addEventListener('keydown', function(event) {
+    if (event.key === 'Escape') {
+        closeVideoModal();
+    }
+});
+</script>
 
 ## 🎙️ Agentic Content Creation and Documentation
 - coming soon
