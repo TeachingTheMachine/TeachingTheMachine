@@ -45,8 +45,7 @@ Below you'll find links to some of my work on GitHub, showcasing projects where 
 - coming soon
 ## 📊 AgentOps-Integrated Systems
 - coming soon
-## 🌍 Mama's 'ol Fashioned Websites
-- coming soon
+ 
 ## 📺 View my YouTube videos.
 - coming soon
 
@@ -113,7 +112,7 @@ Below you'll find links to some of my work on GitHub, showcasing projects where 
 | **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/SpeechReplace)** | |
 | *🎤 Voice Synthesis* | |
 
-## 🌍 Good 'ol Fashioned Websites
+## 🌍 Old Skool Websites
  
 | EcoShop - Sustainable Marketplace | Neon Dreams - Rock Band | Tony's Pizza Palace |
 |:---:|:---:|:---:|
