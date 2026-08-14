@@ -1,7 +1,7 @@
 # Thank you for visiting my shiny✨, new portfolio.
 #### BTW - its a constant work in progress, so check back regularly for updated content
 
-Hello there! I'm Vanessa Crosby-Fitzgerald, a human (yes, still proudly carbon-based). I'm an AI Developer specializing in conversational AI, NLU/NLP, Agentic Automation and Agent Data Procurement.
+Hello there! I'm Vanessa Crosby-Fitzgerald, a human (yes, still proudly carbon-based). I'm an AI Developer specializing in conversational AI, NLU/NLP, Agentic Automation and Human-Agent Data Engineering.
 
 Over the past few years, I've worked in Data, NLP, and Autonomous Agents, orchestrating teams of tireless, brilliant AI agents who eagerly take on the repetitive (and let's be honest, boring) tasks the rest of us would rather avoid. The best part? They never complain—they actually love the work.
 
