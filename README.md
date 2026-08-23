@@ -1,3 +1,5 @@
+![Vanessa Crosby-Fitzgerald](portfolio_banner.png?raw=true)
+
 # Thank you for visiting my shiny✨, new portfolio.
 #### BTW - its a constant work in progress, so check back regularly for updated content
 
