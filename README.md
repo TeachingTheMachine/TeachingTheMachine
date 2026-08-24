@@ -28,13 +28,13 @@ Below you'll find links to some of my work on GitHub, showcasing projects where 
 ## Non-Agentic Demos
 
 
-| Video Speech Swap - Accent Blaster | Multi-Domain Synthetic Data Engine | AudioMate: TTS API Tester |
+| SpeechSwap Voice Conversion | Multi-Domain Synthetic Data Engine | AudioMate: TTS API Tester |
 |:---:|:---:|:---:|
-| <p align="center">![Video Speech Replace](speechSwap_thumb2.jpg)</p> | <p align="center">![Multi-Domain Synthetic Data Engine](multiDomain_SynthEngine_thumb.jpg)</p> | <p align="center">[![AudioMate Demo](audiMateTtsTester_thumb.jpg)](https://github.com/TeachingTheMachine/AudioMate/blob/main/client/src/assets/videoDemo.mp4)</p> | 
-| **For clearer understanding of tech videos** | **Create and export synthetic data in .csv or JSON format** | **Test TTS API with custom text** |
-| Audio replacement system powered by OpenAI to replace video audio with clearer voices for better understanding of technical content | Generate synthetic data in different domains with 3 complexity levels available | Test various TTS APIs. Currently set up for OpenAI and ElevenLabs. Add your own. |
-| **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/SpeechSwap)** | **🚀 [Live Demo](https://syntheticdata-multidomain-2pchw4x4wqcihecqrheg3t.streamlit.app/)** \| **📂 [Repository](https://github.com/TeachingTheMachine/SyntheticData-MultiDomain)** | **🎥 [Video Demo](https://raw.githubusercontent.com/TeachingTheMachine/AudioMate/main/client/src/assets/videoDemo.mp4)** \| **📂 [Repository](https://github.com/TeachingTheMachine/AudioMate)** |
-| *🎤 Voice Synthesis* | *📊 Generate Datasets* | *🗣️ Test TTS APIs* |
+| <p align="center">![SpeechSwap Voice Conversion](speechSwap_thumb2.jpg)</p> | <p align="center">![Multi-Domain Synthetic Data Engine](multiDomain_SynthEngine_thumb.jpg)</p> | <p align="center">[![AudioMate Demo](audiMateTtsTester_thumb.jpg)](https://github.com/TeachingTheMachine/AudioMate/blob/main/client/src/assets/videoDemo.mp4)</p> | 
+| **Swap a video's voice with zero lip-sync drift** | **Create and export synthetic data in .csv or JSON format** | **Test TTS API with custom text** |
+| Local Windows app that converts a video's voice directly (not TTS) so timing and lip movement are preserved exactly. Runs on CPU, free by default, with an optional ElevenLabs path for premium voices. | Generate synthetic data in different domains with 3 complexity levels available | Test various TTS APIs. Currently set up for OpenAI and ElevenLabs. Add your own. |
+| **🎥 [Video Demo](https://raw.githubusercontent.com/TeachingTheMachine/SpeechSwap/main/voice_swap_demo/assets/prerendered_example.mp4)** \| **📂 [Repository](https://github.com/TeachingTheMachine/SpeechSwap/tree/main/voice_swap_demo)** | **🚀 [Live Demo](https://syntheticdata-multidomain-2pchw4x4wqcihecqrheg3t.streamlit.app/)** \| **📂 [Repository](https://github.com/TeachingTheMachine/SyntheticData-MultiDomain)** | **🎥 [Video Demo](https://raw.githubusercontent.com/TeachingTheMachine/AudioMate/main/client/src/assets/videoDemo.mp4)** \| **📂 [Repository](https://github.com/TeachingTheMachine/AudioMate)** |
+| *🎙️ Voice Conversion* | *📊 Generate Datasets* | *🗣️ Test TTS APIs* |
 
 
 
