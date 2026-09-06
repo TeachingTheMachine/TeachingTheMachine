@@ -36,6 +36,12 @@ Below you'll find links to some of my work on GitHub, showcasing projects where 
 | **🎥 [Video Demo](https://raw.githubusercontent.com/TeachingTheMachine/SpeechSwap/main/voice_swap_demo/assets/prerendered_example.mp4)** \| **📂 [Repository](https://github.com/TeachingTheMachine/SpeechSwap/tree/main/voice_swap_demo)** | **🚀 [Live Demo](https://syntheticdata-multidomain-2pchw4x4wqcihecqrheg3t.streamlit.app/)** \| **📂 [Repository](https://github.com/TeachingTheMachine/SyntheticData-MultiDomain)** | **🎥 [Video Demo](https://raw.githubusercontent.com/TeachingTheMachine/AudioMate/main/client/src/assets/videoDemo.mp4)** \| **📂 [Repository](https://github.com/TeachingTheMachine/AudioMate)** |
 | *🎙️ Voice Conversion* | *📊 Generate Datasets* | *🗣️ Test TTS APIs* |
 
+### Public Job Search Scraper
+
+Flask and Playwright application that searches public listings across 10 job sources, with title, keyword, posting-age, pay, and result-limit filters. Includes public ATS integrations for Anthropic and OpenAI, plus resilient browser-based adapters for other public job boards.
+
+**[Repository](https://github.com/TeachingTheMachine/cwxScraper)** | *Python · Flask · Playwright · web data extraction*
+
 
 
 
