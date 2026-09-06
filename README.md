@@ -28,19 +28,19 @@ Below you'll find links to some of my work on GitHub, showcasing projects where 
 ## Non-Agentic Demos
 
 
-| SpeechSwap Voice Conversion | Multi-Domain Synthetic Data Engine | AudioMate: TTS API Tester |
-|:---:|:---:|:---:|
-| <p align="center">![SpeechSwap Voice Conversion](speechSwap_thumb2.jpg)</p> | <p align="center">![Multi-Domain Synthetic Data Engine](multiDomain_SynthEngine_thumb.jpg)</p> | <p align="center">[![AudioMate Demo](audiMateTtsTester_thumb.jpg)](https://github.com/TeachingTheMachine/AudioMate/blob/main/client/src/assets/videoDemo.mp4)</p> | 
-| **Swap a video's voice with zero lip-sync drift** | **Create and export synthetic data in .csv or JSON format** | **Test TTS API with custom text** |
-| Local Windows app that converts a video's voice directly (not TTS) so timing and lip movement are preserved exactly. Runs on CPU, free by default, with an optional ElevenLabs path for premium voices. | Generate synthetic data in different domains with 3 complexity levels available | Test various TTS APIs. Currently set up for OpenAI and ElevenLabs. Add your own. |
-| **🎥 [Video Demo](https://raw.githubusercontent.com/TeachingTheMachine/SpeechSwap/main/voice_swap_demo/assets/prerendered_example.mp4)** \| **📂 [Repository](https://github.com/TeachingTheMachine/SpeechSwap/tree/main/voice_swap_demo)** | **🚀 [Live Demo](https://syntheticdata-multidomain-2pchw4x4wqcihecqrheg3t.streamlit.app/)** \| **📂 [Repository](https://github.com/TeachingTheMachine/SyntheticData-MultiDomain)** | **🎥 [Video Demo](https://raw.githubusercontent.com/TeachingTheMachine/AudioMate/main/client/src/assets/videoDemo.mp4)** \| **📂 [Repository](https://github.com/TeachingTheMachine/AudioMate)** |
-| *🎙️ Voice Conversion* | *📊 Generate Datasets* | *🗣️ Test TTS APIs* |
+| SpeechSwap Voice Conversion | Multi-Domain Synthetic Data Engine |
+|:---:|:---:|
+| <p align="center">![SpeechSwap Voice Conversion](speechSwap_thumb2.jpg)</p> | <p align="center">![Multi-Domain Synthetic Data Engine](multiDomain_SynthEngine_thumb.jpg)</p> |
+| **Swap a video's voice with zero lip-sync drift** | **Create and export synthetic data in .csv or JSON format** |
+| Local Windows app that converts a video's voice directly (not TTS) so timing and lip movement are preserved exactly. Runs on CPU, free by default, with an optional ElevenLabs path for premium voices. | Generate synthetic data in different domains with 3 complexity levels available. |
+| **🎥 [Video Demo](https://raw.githubusercontent.com/TeachingTheMachine/SpeechSwap/main/voice_swap_demo/assets/prerendered_example.mp4)** \| **📂 [Repository](https://github.com/TeachingTheMachine/SpeechSwap/tree/main/voice_swap_demo)** | **🚀 [Live Demo](https://syntheticdata-multidomain-2pchw4x4wqcihecqrheg3t.streamlit.app/)** \| **📂 [Repository](https://github.com/TeachingTheMachine/SyntheticData-MultiDomain)** |
 
-### Public Job Search Scraper
-
-Flask and Playwright application that searches public listings across 10 job sources, with title, keyword, posting-age, pay, and result-limit filters. Includes public ATS integrations for Anthropic and OpenAI, plus resilient browser-based adapters for other public job boards.
-
-**[Repository](https://github.com/TeachingTheMachine/cwxScraper)** | *Python · Flask · Playwright · web data extraction*
+| AudioMate: TTS API Tester | Public Job Search Scraper |
+|:---:|:---:|
+| <p align="center">[![AudioMate Demo](audiMateTtsTester_thumb.jpg)](https://github.com/TeachingTheMachine/AudioMate/blob/main/client/src/assets/videoDemo.mp4)</p> | <p align="center">Public job search</p> |
+| **Test TTS API with custom text** | **Search public listings across 10 job sources** |
+| Test various TTS APIs. Currently set up for OpenAI and ElevenLabs. Add your own. | Flask and Playwright app with title, keyword, posting-age, pay, and result-limit filters, plus public ATS integrations for Anthropic and OpenAI. |
+| **🎥 [Video Demo](https://raw.githubusercontent.com/TeachingTheMachine/AudioMate/main/client/src/assets/videoDemo.mp4)** \| **📂 [Repository](https://github.com/TeachingTheMachine/AudioMate)** | **📂 [Repository](https://github.com/TeachingTheMachine/cwxScraper)** |
 
 
 
