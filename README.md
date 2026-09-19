@@ -103,6 +103,15 @@ Below you'll find links to some of my work on GitHub, showcasing projects where 
 | **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/Coming-Soon)** | **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/Coming-Soon)** |
 | *📊 Real-time performance metrics* | *⚡ Streamlined development workflow* |
 
+| Local LLM Benchmark Test| Job Application Pairing and KPIs |
+|:---:|:---:|
+| ![sssssssssssssss](SM_agents.jpg) | ![sssssssssssssssssss](SM_agents.jpg) |
+| Test which of the Local Ollama model will work with best your dataset | Scan your Gmail and pair Recruiter Outreach, Application, Interview request and 8 more categories. Run KPIs to see data such as timeliness of replies and more |
+| **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/Coming-Soon)** | **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/Coming-Soon)** |
+| *🚀 Determine first hand which Local Model will work best for your dataset* | *📊 Find patterns with your applications* |
+
+
+
 | AgentOps CrewAI Platform | Multi-Agent Dashboard |
 |:---:|:---:|
 | ![Streamlined AgentOps-CrewAI Integration Platform](SM_agents.jpg) | ![Multi-Agent System with Monitoring Dashboard](SM_agents.jpg) |
