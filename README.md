@@ -35,6 +35,14 @@ Below you'll find links to some of my work on GitHub, showcasing projects where 
 | Local Windows app that converts a video's voice directly (not TTS) so timing and lip movement are preserved exactly. Runs on CPU, free by default, with an optional ElevenLabs path for premium voices. | Generate synthetic data in different domains with 3 complexity levels available. |
 | **🎥 [Video Demo](https://raw.githubusercontent.com/TeachingTheMachine/SpeechSwap/main/voice_swap_demo/assets/prerendered_example.mp4)** \| **📂 [Repository](https://github.com/TeachingTheMachine/SpeechSwap/tree/main/voice_swap_demo)** | **🚀 [Live Demo](https://syntheticdata-multidomain-2pchw4x4wqcihecqrheg3t.streamlit.app/)** \| **📂 [Repository](https://github.com/TeachingTheMachine/SyntheticData-MultiDomain)** |
 
+
+| Local LLM Benchmark Test| Job Application Pairing and KPIs |
+|:---:|:---:|
+| ![sssssssssssssss](SM_agents.jpg) | ![sssssssssssssssssss](SM_agents.jpg) |
+| Test which of the Local Ollama model will work with best your dataset | Scan your Gmail and pair Recruiter Outreach, Application, Interview request and 8 more categories. Run KPIs to see data such as timeliness of replies and more |
+| **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/Coming-Soon)** | **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/Coming-Soon)** |
+| *🚀 Determine first hand which Local Model will work best for your dataset* | *📊 Find patterns with your applications* |
+
 | AudioMate: TTS API Tester | Public Job Search Scraper |
 |:---:|:---:|
 | <p align="center">[![AudioMate Demo](audiMateTtsTester_thumb.jpg)](https://github.com/TeachingTheMachine/AudioMate/blob/main/client/src/assets/videoDemo.mp4)</p> | <p align="center">Public job search</p> |
@@ -102,14 +110,6 @@ Below you'll find links to some of my work on GitHub, showcasing projects where 
 | Monitoring solution for CrewAI-based AI agents using AgentOps, integrating with Autogen and Ollama for real-time performance tracking | Development environment for CrewAI applications, utilizing the CrewAI CLI and AgentOps for streamlined agent creation and monitoring |
 | **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/Coming-Soon)** | **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/Coming-Soon)** |
 | *📊 Real-time performance metrics* | *⚡ Streamlined development workflow* |
-
-| Local LLM Benchmark Test| Job Application Pairing and KPIs |
-|:---:|:---:|
-| ![sssssssssssssss](SM_agents.jpg) | ![sssssssssssssssssss](SM_agents.jpg) |
-| Test which of the Local Ollama model will work with best your dataset | Scan your Gmail and pair Recruiter Outreach, Application, Interview request and 8 more categories. Run KPIs to see data such as timeliness of replies and more |
-| **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/Coming-Soon)** | **🚀 Live Demo** \| **📂 [Repository](https://github.com/TeachingTheMachine/Coming-Soon)** |
-| *🚀 Determine first hand which Local Model will work best for your dataset* | *📊 Find patterns with your applications* |
-
 
 
 | AgentOps CrewAI Platform | Multi-Agent Dashboard |
