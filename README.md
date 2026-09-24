@@ -38,9 +38,9 @@ Below you'll find links to some of my work on GitHub, showcasing projects where 
 
 | Local LLM Benchmark Test| Job Application Pairing and KPIs |
 |:---:|:---:|
-| ![Local LLM Benchmark Test](mailBenchmark_thumb.png) | ![Job Application Pairing and KPIs](mailBenchmark_thumb.png) |
-| Benchmark local Ollama models on email categorization accuracy against your own hand-labeled sample - fully local, no cloud APIs | Scan your Gmail and sort it into 23+ categories (recruiter outreach, application status, interview stages, and more) with a local LLM, then auto-label and archive |
-| **📂 [Repository](https://github.com/TeachingTheMachine/applicationMailBenchmark)** | **📂 [Repository](https://github.com/TeachingTheMachine/applicationMailBenchmark)** |
+| ![Local LLM Benchmark Test](localLLMBenchmark_thumb.png) | ![Job Application Pairing and KPIs](mailBenchmark_thumb.png) |
+| Benchmark local Ollama models on any text-classification dataset you provide - accuracy, latency, per-category breakdown, fully local, no cloud APIs | Scan your Gmail and sort it into 23+ categories (recruiter outreach, application status, interview stages, and more) with a local LLM, then auto-label and archive |
+| **📂 [Repository](https://github.com/TeachingTheMachine/LocalLLMBenchmark)** | **📂 [Repository](https://github.com/TeachingTheMachine/applicationMailBenchmark)** |
 | *🚀 Evidence-based model selection, not guesswork* | *📊 Organized 69,000+ real emails end-to-end* |
 
 | AudioMate: TTS API Tester | Public Job Search Scraper |
